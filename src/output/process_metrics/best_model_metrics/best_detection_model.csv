@@ -1,0 +1,2 @@
+model_id,total_frames_mean,total_frames_std,detection_percentage_mean,detection_percentage_std,avg_confidence_mean,avg_confidence_std,avg_time_mean,avg_time_std
+detection-er_3,444.0,117.71321081340021,74.4838228601724,25.939697959160448,0.485625852703331,0.2148659783284152,0.03994926965193247,0.0020916007927527154

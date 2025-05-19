@@ -1,0 +1,195 @@
+inference_id,time,image,predictions
+4718b48b-477f-45c0-a5cf-65a5b1a0c051,0.07364318800000547,"{'width': 596, 'height': 336}",[]
+dbb24d6a-d7fc-4e05-8d3f-a0f9d8ba0460,0.04944600699991497,"{'width': 596, 'height': 336}","[{'x': 200.0, 'y': 148.0, 'width': 80.0, 'height': 42.0, 'confidence': 0.6541768312454224, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '749b1a92-026c-42b3-b048-6885cb0c1b69'}]"
+df0f593e-e568-4e28-8d80-d400b0b0c9c3,0.05117723700004717,"{'width': 596, 'height': 336}",[]
+5fc28254-cd75-4a47-b9c9-057e588d81d3,0.05630438699995466,"{'width': 596, 'height': 336}",[]
+b2cd595f-b3ca-46e5-b4e8-de94d076f3ea,0.07634146400005193,"{'width': 596, 'height': 336}",[]
+9a00f044-0208-4a5c-b586-5e3784162ff3,0.07086183799992796,"{'width': 596, 'height': 336}",[]
+27b6dfd1-7320-4335-9c71-4b9c6151b9d7,0.07357798799989723,"{'width': 596, 'height': 336}","[{'x': 309.0, 'y': 123.5, 'width': 86.0, 'height': 67.0, 'confidence': 0.43276873230934143, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '165fefe9-2d78-493f-83d4-df8410b3238a'}]"
+dacf12e6-a40c-498c-accf-2e4f3b4e7733,0.04850530700014133,"{'width': 596, 'height': 336}",[]
+f7477c62-73b9-4927-8a49-b5f7564ad0a7,0.04922974500004784,"{'width': 596, 'height': 336}",[]
+84baa8ea-0c7a-4f48-b5d5-fe9917fb3b60,0.051881596999919566,"{'width': 596, 'height': 336}",[]
+73fffffa-8c10-4039-b876-3dd178040fcb,0.05066966900039915,"{'width': 596, 'height': 336}",[]
+adf4f5cc-82bc-4faa-abfb-96386ef7caa9,0.052543748000061896,"{'width': 596, 'height': 336}",[]
+ec6cf044-7d34-4ddf-b2c0-5dd6d66010ad,0.05151097900034074,"{'width': 596, 'height': 336}",[]
+f78d002d-8a34-48ef-b2cb-6f5abe4b89be,0.07741638499987857,"{'width': 596, 'height': 336}",[]
+830d0a62-b336-4c12-8ba6-93a98276d076,0.05299028600029487,"{'width': 596, 'height': 336}",[]
+6f5e2ebe-19fb-4d27-bf26-a5ecba4861db,0.050662748999911855,"{'width': 596, 'height': 336}",[]
+9254e3f2-5323-416d-9d45-be22716af70c,0.05653707999999824,"{'width': 596, 'height': 336}",[]
+bacb8596-c320-4e0e-a3bb-1babfe610c9e,0.08636070900001869,"{'width': 596, 'height': 336}","[{'x': 310.0, 'y': 122.0, 'width': 92.0, 'height': 70.0, 'confidence': 0.4730072319507599, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '9fe77706-1e16-4988-b6dd-39182ab5f201'}]"
+6da867b9-1627-4610-a2c8-8948ca63025f,0.04792441099971256,"{'width': 596, 'height': 336}","[{'x': 310.5, 'y': 121.5, 'width': 93.0, 'height': 69.0, 'confidence': 0.4447287321090698, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'cb8aeaab-a3e6-4fc2-ba69-c26398d04c53'}]"
+e98b3214-841f-41d1-b7c1-1eed299317d9,0.054684178000115935,"{'width': 596, 'height': 336}",[]
+c39a529d-45b6-4770-b09c-64f6df6d3d5c,0.05000448500004495,"{'width': 596, 'height': 336}",[]
+fce47ff8-9a0e-4261-8a62-7c520ca2e0d2,0.06495724399974279,"{'width': 596, 'height': 336}",[]
+b63beb54-64ca-4646-b26c-41878724de90,0.04943776100026298,"{'width': 596, 'height': 336}",[]
+1278dc07-9015-4d01-bf35-a20d5c3db44a,0.05386108399989098,"{'width': 596, 'height': 336}",[]
+d7d9d0f8-4a50-4ef0-b26e-daffb9941d10,0.04798161299959247,"{'width': 596, 'height': 336}",[]
+a1dbddef-ba09-4bd4-b8f8-146a56d3cbd7,0.05190170999981092,"{'width': 596, 'height': 336}",[]
+795c0e1d-eb71-4006-85e5-202621d7e540,0.04837155499990331,"{'width': 596, 'height': 336}",[]
+81b75837-6f27-46e8-938d-4f81d9d9e189,0.04852069499997924,"{'width': 596, 'height': 336}",[]
+d9a2cf11-6da8-4e6f-b5af-617becee04e6,0.05029792400000588,"{'width': 596, 'height': 336}",[]
+e5787c3b-4135-4316-ac08-afc0c17d90d0,0.08213883200005512,"{'width': 596, 'height': 336}",[]
+c713b5b2-b3f6-4e28-b547-047a7104eff2,0.0671220510000694,"{'width': 596, 'height': 336}",[]
+ffa64599-ac89-4ad2-b2a3-cd018149e93c,0.057920292000062545,"{'width': 596, 'height': 336}",[]
+b3181547-c7e3-44c0-85a4-716b3fb44309,0.052672593999886885,"{'width': 596, 'height': 336}",[]
+65b54fbc-4705-45cc-a68e-8b6e66ad745e,0.062392332000172246,"{'width': 596, 'height': 336}",[]
+090a21ae-53f1-4d89-add2-fb5dcf53ae5d,0.04798864899998989,"{'width': 596, 'height': 336}",[]
+4efe1706-a75c-41ec-8f25-479b88239cd1,0.07441166199987492,"{'width': 596, 'height': 336}",[]
+8d86c811-b47e-4b10-b576-1845507a4b87,0.05761471999994683,"{'width': 596, 'height': 336}",[]
+30d75275-c271-490b-a425-53fcef4dbd82,0.05649876500001483,"{'width': 596, 'height': 336}",[]
+dad28f49-314e-4a62-92a2-b9221a43b362,0.13925943600042956,"{'width': 596, 'height': 336}",[]
+01d0cf9b-632c-466b-b7af-102819a602aa,0.05129487799990784,"{'width': 596, 'height': 336}",[]
+c8652356-37f8-43fb-addf-b8c0bafa2c46,0.051989013000138584,"{'width': 596, 'height': 336}",[]
+0bab7a01-bbfe-4ca7-b4cf-bc01cdc11a8c,0.0638792659997307,"{'width': 596, 'height': 336}",[]
+6fef1b44-bc43-4675-be1b-01cbc6788aad,0.05543362699972931,"{'width': 596, 'height': 336}",[]
+95c1705d-554f-4aae-9a9f-abaf8e3416a1,0.05194474200015975,"{'width': 596, 'height': 336}",[]
+52e4dbdb-6f35-471a-b635-8120816c3f90,0.050961814000174854,"{'width': 596, 'height': 336}",[]
+4bafd480-7c08-4bb4-9e46-172186b1fe33,0.04880606599999737,"{'width': 596, 'height': 336}",[]
+8cdde3e9-9357-490b-81bf-051399eed17c,0.04907254499994451,"{'width': 596, 'height': 336}",[]
+c64e4ea7-42e3-40d2-9a47-875fa1bd5d99,0.08908290800036411,"{'width': 596, 'height': 336}",[]
+6b776db2-b174-4f4d-9678-cff7a573193e,0.04906585499998073,"{'width': 596, 'height': 336}",[]
+2bc16ca6-34aa-4589-813c-c7494cbb3264,0.07054998700004944,"{'width': 596, 'height': 336}",[]
+f1567f90-f63e-47d7-9493-9a1c1f4936e8,0.0479549980000229,"{'width': 596, 'height': 336}",[]
+3452d865-9ee8-4051-ad7b-3cd258ec8834,0.05268482600013158,"{'width': 596, 'height': 336}","[{'x': 311.0, 'y': 120.5, 'width': 88.0, 'height': 61.0, 'confidence': 0.4177038371562958, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '870f8ed8-6245-4fd3-9c58-206e6e0d9302'}]"
+9d439bff-747c-4db7-b418-739b98b38d0b,0.07014261499989516,"{'width': 596, 'height': 336}",[]
+91de9292-828e-41dc-b12e-53e8898d6b3a,0.051203886000166676,"{'width': 596, 'height': 336}",[]
+52ffa2bf-f3c5-4d5d-af4a-ab488f6b8b94,0.054067141999894375,"{'width': 596, 'height': 336}",[]
+1a587e2d-6cb3-4daf-92a1-352d320bc893,0.052691774000322766,"{'width': 596, 'height': 336}",[]
+6eb4ca4e-8847-47f2-ac0a-2914c01655dc,0.04946272800020779,"{'width': 596, 'height': 336}",[]
+980a6872-7727-4bdf-91ae-d07693dc02e8,0.05174909800007299,"{'width': 596, 'height': 336}",[]
+d4f72490-fb7c-4cc0-8f73-ddfc03ce14ac,0.052913453000201116,"{'width': 596, 'height': 336}",[]
+909b98c9-0003-4e53-911d-01231789a71b,0.05547804699972403,"{'width': 596, 'height': 336}",[]
+9e734c6a-a32f-4c36-9906-39209c79b5b0,0.053458118999969884,"{'width': 596, 'height': 336}",[]
+dcb4b883-3be2-407c-a572-5b3e4821029a,0.05652055299992753,"{'width': 596, 'height': 336}",[]
+3fda16b3-d655-4798-bd29-f762b8085fc3,0.04829572800008464,"{'width': 596, 'height': 336}",[]
+5da9c1b1-16a7-4a69-a385-77e38025de89,0.04825574999995297,"{'width': 596, 'height': 336}",[]
+81bb00c5-429b-406d-922b-a273aa50d104,0.04917847900014749,"{'width': 596, 'height': 336}",[]
+59ddd564-b3a0-4c9f-b703-39bc0eebca9d,0.050850227999944764,"{'width': 596, 'height': 336}",[]
+dafaa3c3-aee0-4a0e-959c-eb8ef53d5b73,0.07143254399989019,"{'width': 596, 'height': 336}",[]
+27b4d7fc-8dfd-46c2-955a-fe0ea08c6479,0.048723350000045684,"{'width': 596, 'height': 336}",[]
+82fab1d3-a1b5-4152-b30e-27d962df83a7,0.06396469700007401,"{'width': 596, 'height': 336}",[]
+2a701d3e-750f-4aa0-90d0-176b592a922a,0.06704180099995938,"{'width': 596, 'height': 336}","[{'x': 381.0, 'y': 308.5, 'width': 236.0, 'height': 55.0, 'confidence': 0.5363799929618835, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'ae6cf6bc-0886-48b7-9196-bfcb742ec043'}]"
+50c9675a-8e3c-40e8-8c93-43b557d00942,0.05133625500002381,"{'width': 596, 'height': 336}","[{'x': 378.5, 'y': 305.0, 'width': 237.0, 'height': 62.0, 'confidence': 0.6190904378890991, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '9e9db466-7faf-4779-84b9-6171f0ab4218'}]"
+67657c54-cd18-4966-a1a2-70518287c78a,0.07009904699998515,"{'width': 596, 'height': 336}","[{'x': 332.5, 'y': 310.5, 'width': 143.0, 'height': 51.0, 'confidence': 0.5064767599105835, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '55525b76-8978-44d8-9b37-9ae512061a4e'}]"
+284eca17-33d5-4764-8fbc-b0148191fd2a,0.04867827299995042,"{'width': 596, 'height': 336}",[]
+2fef046d-b069-4055-bc76-23f615b7d8a7,0.053043468999931065,"{'width': 596, 'height': 336}","[{'x': 320.5, 'y': 306.0, 'width': 129.0, 'height': 60.0, 'confidence': 0.6434684991836548, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'cef4dacc-575c-4ce2-a884-16a6e502767e'}]"
+c7c1112e-c665-44b8-a5c1-0b324540e435,0.0823080810000647,"{'width': 596, 'height': 336}","[{'x': 315.5, 'y': 305.0, 'width': 137.0, 'height': 60.0, 'confidence': 0.5402601957321167, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'f6b8cf51-49d7-4b80-bb49-284e92e79373'}]"
+1f33f38e-e948-4a0b-862b-b4bdd714c957,0.05090464400018391,"{'width': 596, 'height': 336}",[]
+f4b71629-a7d8-47a3-84c2-98509f369e7b,0.04826455699981125,"{'width': 596, 'height': 336}",[]
+4ec72d7b-740f-4987-ac8f-8868be11cdcf,0.057746030999624054,"{'width': 596, 'height': 336}",[]
+48497258-8b42-4e94-b086-b5c23634cd20,0.05168604400023469,"{'width': 596, 'height': 336}",[]
+e9efcd1f-8457-4710-b190-0713513f9159,0.05421070800002781,"{'width': 596, 'height': 336}",[]
+afdf832f-8f98-40b5-bc5e-9e2c5ae33356,0.050332453999999416,"{'width': 596, 'height': 336}",[]
+4b385cdd-7f3f-4089-a15f-596365f386b2,0.05285129200001393,"{'width': 596, 'height': 336}",[]
+15a9528f-07da-42cd-9c05-7362306a91da,0.05203973200013934,"{'width': 596, 'height': 336}",[]
+941ce8f4-c5d5-4b95-9e56-d97bb3b2bfce,0.06562733300006585,"{'width': 596, 'height': 336}",[]
+5813bbea-90b1-4a59-a2a6-9e16d48ee6fd,0.05271887099979722,"{'width': 596, 'height': 336}",[]
+c317a0ad-e3fc-460f-9615-4ce71516a090,0.07272649700007605,"{'width': 596, 'height': 336}",[]
+43ba3330-b9e8-4059-9cfd-a8fc67fd9e6d,0.081244808999827,"{'width': 596, 'height': 336}",[]
+0c7bff54-f74d-4bba-ab4d-be05f2ba5836,0.08291306199998871,"{'width': 596, 'height': 336}",[]
+84408798-8a53-46e4-9a27-cb173228f10d,0.06566742899985911,"{'width': 596, 'height': 336}",[]
+c064a1ee-483d-49a1-8ed3-e251fa552ee6,0.05545375800011243,"{'width': 596, 'height': 336}",[]
+b40a694c-c1aa-4152-8587-405d7372737d,0.067045490000055,"{'width': 596, 'height': 336}",[]
+f77e753d-cc29-46ef-8a04-1ceb3b24c150,0.0666260200000579,"{'width': 596, 'height': 336}","[{'x': 280.5, 'y': 225.5, 'width': 215.0, 'height': 59.0, 'confidence': 0.4036227762699127, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'e2c6e31f-3f8a-4cb5-85df-811eb3748575'}]"
+97db941b-ab7a-454b-a9f9-29e70bc47a68,0.05009972900006687,"{'width': 596, 'height': 336}","[{'x': 296.0, 'y': 222.0, 'width': 164.0, 'height': 56.0, 'confidence': 0.8529782891273499, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '9d797983-babb-4755-b78d-5d30634d405f'}, {'x': 327.5, 'y': 307.0, 'width': 281.0, 'height': 58.0, 'confidence': 0.6511518955230713, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '51232f32-b6d5-4a55-9810-8b14d130be00'}]"
+0a688318-a821-46f3-bff4-f5084b9751dd,0.05213982999975997,"{'width': 596, 'height': 336}","[{'x': 293.0, 'y': 218.0, 'width': 168.0, 'height': 56.0, 'confidence': 0.8062361478805542, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '02619411-dfdf-43df-9a1c-ff6808aff349'}, {'x': 321.5, 'y': 306.5, 'width': 271.0, 'height': 59.0, 'confidence': 0.6362241506576538, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '3a8b3869-f243-48c6-9312-573f5d1b27fe'}]"
+23b35551-3a2d-45ad-b51f-0f81bc09f4cd,0.05145848200027103,"{'width': 596, 'height': 336}","[{'x': 291.0, 'y': 215.5, 'width': 166.0, 'height': 57.0, 'confidence': 0.8427727818489075, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '801035a3-875c-4d19-a36d-d9b59db91572'}, {'x': 317.0, 'y': 303.5, 'width': 266.0, 'height': 65.0, 'confidence': 0.517657995223999, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '839e352d-0dad-4704-9a92-b4253e01c5d3'}]"
+c95123af-ace1-47bf-bce3-9d5bb0c65ad0,0.0641505920000327,"{'width': 596, 'height': 336}","[{'x': 291.0, 'y': 212.5, 'width': 162.0, 'height': 55.0, 'confidence': 0.8449238538742065, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '4776a2d5-79cf-4e96-854a-218da1bc8801'}, {'x': 313.5, 'y': 300.0, 'width': 263.0, 'height': 72.0, 'confidence': 0.8142009973526001, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '16b76827-9693-4d86-8b54-7d0fd38e511d'}]"
+002174bb-6f44-434f-ba12-44717a9b86fc,0.04980399300029603,"{'width': 596, 'height': 336}","[{'x': 309.0, 'y': 297.5, 'width': 256.0, 'height': 77.0, 'confidence': 0.8154048919677734, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'ed7652ba-2ab3-4815-83d2-429932d67b3e'}, {'x': 288.5, 'y': 212.0, 'width': 159.0, 'height': 56.0, 'confidence': 0.5804983377456665, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '727400e2-d2c2-4085-ab20-7afb06e9c56e'}]"
+05cf425b-f5ae-4e68-b128-1bd1edb1688d,0.04923131900000044,"{'width': 596, 'height': 336}","[{'x': 304.0, 'y': 295.5, 'width': 254.0, 'height': 81.0, 'confidence': 0.7911478281021118, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '57357d7e-0cee-4c47-80d7-85ab269f8ee5'}, {'x': 286.0, 'y': 213.5, 'width': 158.0, 'height': 65.0, 'confidence': 0.6085608601570129, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'fdc39fa4-8786-4d2f-bc5f-14536a56ad1c'}]"
+bf0b354b-3182-4dc6-a79f-db88375f262a,0.05264792699995269,"{'width': 596, 'height': 336}","[{'x': 299.5, 'y': 293.0, 'width': 247.0, 'height': 84.0, 'confidence': 0.8077632188796997, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'f83e0eca-bd15-4f02-bd5b-013375c45eef'}, {'x': 282.0, 'y': 212.5, 'width': 156.0, 'height': 69.0, 'confidence': 0.5687570571899414, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'fa65dffd-dfcb-47f8-9dd3-b649479dedd3'}]"
+714ff094-790d-407f-a417-2d5735a44dae,0.05503683799997816,"{'width': 596, 'height': 336}","[{'x': 297.0, 'y': 289.0, 'width': 240.0, 'height': 76.0, 'confidence': 0.6666330099105835, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '0d124eb5-840d-4d9a-9d09-1c53cae69d7c'}]"
+83431e15-c34f-4c2f-8fa6-570d55fb3a03,0.051126113000009354,"{'width': 596, 'height': 336}","[{'x': 277.5, 'y': 201.0, 'width': 151.0, 'height': 46.0, 'confidence': 0.6219018697738647, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'a1365d9e-44ab-4ee3-b607-6779e8705547'}]"
+dcf66f53-92e0-435b-a831-e4a041ca34bd,0.05128881599966917,"{'width': 596, 'height': 336}","[{'x': 276.0, 'y': 197.5, 'width': 148.0, 'height': 45.0, 'confidence': 0.7190219759941101, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '0e3d9fce-92eb-4baf-b641-88c55c25547a'}]"
+55e1fcc3-4c90-4a70-a1ed-3f058d9bab40,0.048533361999943736,"{'width': 596, 'height': 336}","[{'x': 274.0, 'y': 195.0, 'width': 146.0, 'height': 46.0, 'confidence': 0.8232781887054443, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'b931ff18-0a45-472c-9340-1a01a23e7cfe'}]"
+e864738e-41e0-42b0-bdf4-cab3700cf8f0,0.04935746199998903,"{'width': 596, 'height': 336}","[{'x': 272.0, 'y': 194.5, 'width': 146.0, 'height': 45.0, 'confidence': 0.6634150743484497, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'a204a7e2-fe11-4aed-89e6-a078fb98e1b4'}]"
+db3a8bf1-ca4a-4dc0-97bd-0b3ac4078c0e,0.05108109599996169,"{'width': 596, 'height': 336}","[{'x': 270.0, 'y': 193.0, 'width': 146.0, 'height': 46.0, 'confidence': 0.8022761344909668, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'bb4ba033-85c9-49e5-8770-890d6d73a42f'}]"
+4ca05ab7-ef66-4f26-b128-e322c64dc54d,0.052867906000301446,"{'width': 596, 'height': 336}","[{'x': 267.5, 'y': 190.5, 'width': 147.0, 'height': 45.0, 'confidence': 0.5822097063064575, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'f51ce963-bbe2-42b5-b0eb-93d58d9cfc82'}]"
+aa36909e-dcfd-4ebf-9a2b-e10a3a046eb6,0.04787391500030935,"{'width': 596, 'height': 336}",[]
+f34499e2-5eb9-4054-92e8-c202b1aa5032,0.04815079499985586,"{'width': 596, 'height': 336}",[]
+145de5a5-7e4d-463e-9161-936d2d0ccf70,0.07683164299987766,"{'width': 596, 'height': 336}",[]
+ca64558f-4031-4442-99f0-7b4228271bf9,0.055091680000032284,"{'width': 596, 'height': 336}","[{'x': 268.0, 'y': 246.5, 'width': 204.0, 'height': 65.0, 'confidence': 0.4842852056026459, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '4f793580-767c-46dc-a26e-f30c6b22dbb5'}]"
+1e6a6fa0-0b6a-4a2b-94f7-e7b9e4caeed7,0.06066908100001456,"{'width': 596, 'height': 336}",[]
+786d09f5-78ee-424b-8b1f-019c31444f35,0.05551058800028841,"{'width': 596, 'height': 336}","[{'x': 254.0, 'y': 176.0, 'width': 138.0, 'height': 42.0, 'confidence': 0.7905552387237549, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '06364071-8c19-4b9b-815b-1d0b8f63ef7d'}]"
+759b7f56-78b1-4ed3-96a0-3b58195edff0,0.052933527000277536,"{'width': 596, 'height': 336}","[{'x': 252.0, 'y': 174.5, 'width': 138.0, 'height': 43.0, 'confidence': 0.6763193607330322, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '20b5962c-4410-4fe0-b429-5960931bf974'}]"
+b41b817e-c4f5-4805-bb09-48df80990725,0.05665958000008686,"{'width': 596, 'height': 336}","[{'x': 250.5, 'y': 170.5, 'width': 137.0, 'height': 43.0, 'confidence': 0.6776889562606812, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '0a623deb-f601-4a6b-997d-428fed0617e3'}]"
+7fba088c-a27e-4c32-8f20-005ccfeb10e0,0.05069390700009535,"{'width': 596, 'height': 336}","[{'x': 257.0, 'y': 224.0, 'width': 192.0, 'height': 60.0, 'confidence': 0.6870570182800293, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '4558bec0-10d3-43e3-bbc0-13893ccbb20a'}, {'x': 249.0, 'y': 167.0, 'width': 134.0, 'height': 40.0, 'confidence': 0.5218263864517212, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '06da2a9e-e8a2-4e04-a232-46742757aa67'}]"
+c97b3f5a-208f-4823-86e3-d8f74260ab5a,0.0528321470001174,"{'width': 596, 'height': 336}","[{'x': 254.5, 'y': 218.5, 'width': 183.0, 'height': 61.0, 'confidence': 0.7769017219543457, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '49384502-e81e-48e4-8239-5d39f79b7dc0'}, {'x': 247.0, 'y': 163.5, 'width': 134.0, 'height': 39.0, 'confidence': 0.534389317035675, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '4f841b15-81dc-485f-a022-d80914b01ac9'}]"
+dcd28839-1623-40f4-a87e-e2465e4bba79,0.052883956999721704,"{'width': 596, 'height': 336}","[{'x': 252.5, 'y': 215.5, 'width': 183.0, 'height': 57.0, 'confidence': 0.7883425951004028, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '83216141-ce5b-42e5-a153-fc7115db1fd6'}, {'x': 245.5, 'y': 162.0, 'width': 133.0, 'height': 40.0, 'confidence': 0.5520429611206055, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '088b35cb-d425-440c-aada-068f21df2ebd'}]"
+574a4586-a761-4bd9-8761-75f9d47f3bcf,0.10082365599987497,"{'width': 596, 'height': 336}","[{'x': 245.0, 'y': 160.5, 'width': 132.0, 'height': 39.0, 'confidence': 0.7202898859977722, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'c6fc5cdd-2ed8-4f2c-b5ce-8b522bec3e12'}]"
+90d47351-a94e-4170-9477-cdf3f3d5024c,0.0675177260000055,"{'width': 596, 'height': 336}","[{'x': 243.5, 'y': 159.0, 'width': 127.0, 'height': 38.0, 'confidence': 0.6930484771728516, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '5a10f32d-1ebd-4721-a2cb-04fe052c2740'}]"
+d27f72b2-c572-4a10-a728-b741c5bd17f6,0.06257501399977627,"{'width': 596, 'height': 336}","[{'x': 243.5, 'y': 173.0, 'width': 133.0, 'height': 70.0, 'confidence': 0.7904475927352905, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '5b64c155-e4c6-4d37-ab78-1243cc2e12b1'}]"
+9df9b67d-9e2c-46d9-8cae-1980ae539c63,0.05424708200007444,"{'width': 596, 'height': 336}","[{'x': 241.0, 'y': 154.5, 'width': 126.0, 'height': 37.0, 'confidence': 0.6544898748397827, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'cd6861fb-ef84-49fd-b737-0877e24d51e6'}]"
+31773cec-6175-4bc5-bca2-0b42a46706df,0.050714103000245814,"{'width': 596, 'height': 336}","[{'x': 238.5, 'y': 152.5, 'width': 125.0, 'height': 35.0, 'confidence': 0.46199098229408264, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '6feb1484-811e-4d34-8929-4c195c332090'}]"
+9bb784ba-263f-4793-a648-3aab731c86f0,0.05032305900022038,"{'width': 596, 'height': 336}","[{'x': 237.5, 'y': 151.5, 'width': 123.0, 'height': 33.0, 'confidence': 0.6120970249176025, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '956937b7-2459-4642-9be5-bc21a749781c'}, {'x': 283.0, 'y': 295.5, 'width': 122.0, 'height': 75.0, 'confidence': 0.4192636013031006, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '67f620b6-3853-4eb3-aec4-892e5832d2fa'}]"
+7386404a-0eaa-468e-94c9-2dc9f6c3783c,0.054316076999839424,"{'width': 596, 'height': 336}","[{'x': 281.0, 'y': 291.0, 'width': 124.0, 'height': 76.0, 'confidence': 0.7282377481460571, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '63f935ec-47e2-4ec8-b30a-208403e14339'}]"
+e62a6d71-efcc-473c-9829-3157d3650a52,0.07275065399994673,"{'width': 596, 'height': 336}","[{'x': 280.0, 'y': 286.0, 'width': 122.0, 'height': 72.0, 'confidence': 0.7642340064048767, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'e1aee859-ff87-4615-99fb-b276822751e3'}]"
+36b22f3b-9f7f-4b1c-a854-7da9dbde3d3b,0.08611498800019035,"{'width': 596, 'height': 336}","[{'x': 275.0, 'y': 283.0, 'width': 118.0, 'height': 72.0, 'confidence': 0.79831862449646, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '29ff2095-9aff-476b-a440-c873d08b27e3'}]"
+995c74b4-4bfb-4736-a71f-9e2d8d5d8c97,0.07261802600010014,"{'width': 596, 'height': 336}","[{'x': 272.5, 'y': 277.5, 'width': 119.0, 'height': 73.0, 'confidence': 0.8448265790939331, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '67371197-42b6-4a8e-8e04-10609b14697e'}, {'x': 232.0, 'y': 147.5, 'width': 124.0, 'height': 35.0, 'confidence': 0.5922502279281616, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '93c684b6-139f-462d-86b2-013c54cef0e5'}]"
+9daa0cc2-9d65-4bb3-b2d8-279dd0e84fc8,0.04993078300003617,"{'width': 596, 'height': 336}","[{'x': 272.0, 'y': 272.0, 'width': 116.0, 'height': 68.0, 'confidence': 0.8253498077392578, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'a88512c6-817b-4216-8e55-acb58295229c'}, {'x': 230.5, 'y': 146.0, 'width': 121.0, 'height': 36.0, 'confidence': 0.7312725782394409, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '812bcf15-7074-42c0-82e5-25679834c7ba'}]"
+29756c7f-df23-4348-825e-33b14c6bd903,0.05050015400001939,"{'width': 596, 'height': 336}","[{'x': 268.0, 'y': 269.5, 'width': 112.0, 'height': 71.0, 'confidence': 0.8399098515510559, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '5769d8df-75e8-4062-978d-57d260d456a8'}, {'x': 229.5, 'y': 144.5, 'width': 119.0, 'height': 35.0, 'confidence': 0.49375277757644653, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '388f0a90-524b-4eae-8b5e-72300722959a'}]"
+54bb01b2-9689-4196-a134-9c4d163d00bd,0.04858780599988677,"{'width': 596, 'height': 336}","[{'x': 264.5, 'y': 266.5, 'width': 113.0, 'height': 71.0, 'confidence': 0.822621762752533, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '2dba163e-df48-41a4-9c72-dbe84f5a7fad'}]"
+a0b5228d-792c-4480-91d8-e4feddb47123,0.05264843899999505,"{'width': 596, 'height': 336}","[{'x': 262.5, 'y': 261.5, 'width': 111.0, 'height': 69.0, 'confidence': 0.749933660030365, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '144a45d5-242f-48ac-8571-6bebc9f35182'}]"
+e3c63a4e-d3a9-4541-9db6-1a3f5ab8cbab,0.061636513999928866,"{'width': 596, 'height': 336}","[{'x': 233.5, 'y': 215.0, 'width': 165.0, 'height': 156.0, 'confidence': 0.4702736735343933, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'd967a428-1004-48ba-b2f8-a8fce13e3735'}]"
+ca15f8f9-59d4-467a-afc3-1c33eab46ef9,0.049771034000059444,"{'width': 596, 'height': 336}",[]
+7e3132d8-5db1-419e-a3ce-61cce1144726,0.05029999700036569,"{'width': 596, 'height': 336}","[{'x': 227.0, 'y': 210.5, 'width': 162.0, 'height': 149.0, 'confidence': 0.5966411828994751, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'b504e795-d593-4c7a-bc5f-faf199f74800'}]"
+2064246e-a8a1-41fb-9c2a-38bb5ab1939f,0.04919656700030828,"{'width': 596, 'height': 336}",[]
+5a7de286-3191-4914-b159-6d42402ad88d,0.0568784100000812,"{'width': 596, 'height': 336}",[]
+65466231-3807-4b75-9743-01bce15a1aa3,0.055918626999982735,"{'width': 596, 'height': 336}",[]
+58767992-c674-42b4-80ad-30a351c8d1c9,0.049060415999974794,"{'width': 596, 'height': 336}",[]
+65cd741a-d3a7-4ad5-9a9e-2afd792b10a6,0.04970335799998793,"{'width': 596, 'height': 336}",[]
+62c9d9d5-27b2-41f1-8425-2db616347b09,0.05387841400010984,"{'width': 596, 'height': 336}","[{'x': 217.0, 'y': 128.0, 'width': 106.0, 'height': 30.0, 'confidence': 0.5331335067749023, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '303b2d18-f261-47c4-bdb2-6042f0228a47'}]"
+f2374973-0aa4-49ea-baf0-94dd38f603c9,0.059906224999849655,"{'width': 596, 'height': 336}","[{'x': 216.5, 'y': 126.5, 'width': 105.0, 'height': 29.0, 'confidence': 0.6649108529090881, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '8fec615d-2b26-493b-ab99-fbf4b6550a72'}]"
+3c3b30a4-03c3-405c-8f1e-6b5bf0991efd,0.053035129999898345,"{'width': 596, 'height': 336}","[{'x': 216.0, 'y': 126.0, 'width': 108.0, 'height': 34.0, 'confidence': 0.4773370027542114, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '527f91ad-8e17-4f7e-b538-761de682216b'}]"
+a8ca054e-8bc4-4309-b4da-5a047ca4177d,0.05364938599996094,"{'width': 596, 'height': 336}","[{'x': 213.0, 'y': 123.0, 'width': 102.0, 'height': 30.0, 'confidence': 0.6344317197799683, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '70672a61-58ca-44bc-b2a2-3db2a24d4baa'}]"
+84de4c37-8768-4896-be14-92cd902b688b,0.05100169099978302,"{'width': 596, 'height': 336}","[{'x': 212.5, 'y': 122.5, 'width': 105.0, 'height': 33.0, 'confidence': 0.4604860842227936, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'f542d92d-2d5d-4885-a7af-3ccc213681bb'}]"
+b11354cd-5e67-44af-ad21-31a2ebacda76,0.04832565799983968,"{'width': 596, 'height': 336}",[]
+9cea90c7-0021-4517-bcce-8a281ead2b7b,0.04962412899976698,"{'width': 596, 'height': 336}","[{'x': 210.0, 'y': 118.5, 'width': 104.0, 'height': 25.0, 'confidence': 0.7096773982048035, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'c1a009f8-85f6-4d05-b5b3-deed679f02cb'}]"
+13308dd4-d39a-4cc0-869f-0a8cb8deb65e,0.054137760999765305,"{'width': 596, 'height': 336}","[{'x': 210.0, 'y': 117.5, 'width': 102.0, 'height': 21.0, 'confidence': 0.6390578746795654, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '5c418d12-5869-4d66-83d4-c8ea6a846477'}]"
+26cad3f5-cd17-4298-8610-46a3a39a9061,0.06854294000004302,"{'width': 596, 'height': 336}","[{'x': 209.5, 'y': 120.5, 'width': 105.0, 'height': 29.0, 'confidence': 0.40383201837539673, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '52926caf-a2b2-45dd-a2ca-280a112ca284'}]"
+3206a6c3-20ad-494f-ad4a-a485064d5991,0.05158318400003736,"{'width': 596, 'height': 336}","[{'x': 208.5, 'y': 120.5, 'width': 101.0, 'height': 33.0, 'confidence': 0.570182740688324, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '570c66e7-9a49-47ff-b9d7-a5657a4a5b95'}]"
+92355e31-a078-43b7-8c22-2a9a3d24bc94,0.05029727000010098,"{'width': 596, 'height': 336}","[{'x': 208.0, 'y': 121.0, 'width': 102.0, 'height': 36.0, 'confidence': 0.44088876247406006, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '1d093660-d859-45ee-b703-ef3202dce9cc'}]"
+a2647b2c-508f-4882-953f-4b6408f9360e,0.04975200099988797,"{'width': 596, 'height': 336}",[]
+151e628f-f48e-4f4f-84dc-81f7ca160c59,0.056400789999770495,"{'width': 596, 'height': 336}","[{'x': 204.5, 'y': 119.5, 'width': 99.0, 'height': 35.0, 'confidence': 0.5241049528121948, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '849f8b46-ce12-4929-98d4-0520c3895fba'}]"
+75be54ee-7f3a-41d9-a2f7-d9c22e235126,0.06310869200001434,"{'width': 596, 'height': 336}","[{'x': 203.5, 'y': 118.5, 'width': 97.0, 'height': 35.0, 'confidence': 0.7195156812667847, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'eb0e93d4-e06c-4ff3-9c41-e129099f63fd'}]"
+5890bf34-4cc1-4171-89c2-e97e90789395,0.05770809099976759,"{'width': 596, 'height': 336}","[{'x': 203.5, 'y': 116.5, 'width': 97.0, 'height': 35.0, 'confidence': 0.7179869413375854, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '083c1f4e-da83-4821-a1d8-ce98a099b8df'}]"
+6ab9dab6-851c-4f34-b51e-893571e071ff,0.05016363300001103,"{'width': 596, 'height': 336}","[{'x': 203.0, 'y': 115.0, 'width': 96.0, 'height': 32.0, 'confidence': 0.6743452548980713, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '1e3c2a44-050e-4f5e-97c8-726bc3e3ca26'}]"
+228f761e-e0b3-48c9-9f49-2b7f5bd361ed,0.05153771200002666,"{'width': 596, 'height': 336}","[{'x': 202.5, 'y': 116.0, 'width': 97.0, 'height': 34.0, 'confidence': 0.4327246844768524, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'be4291c0-bae9-4be0-a5a4-a39bc13c820a'}]"
+23e642d8-fe0a-4714-9fd1-1d0afd924f61,0.06741391800005658,"{'width': 596, 'height': 336}","[{'x': 200.5, 'y': 114.5, 'width': 95.0, 'height': 33.0, 'confidence': 0.668654203414917, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '12a7920a-898b-4ec1-a8ff-d95a6bd0c71c'}]"
+59e904c1-e90d-4cad-98f4-271f01c20112,0.049743199000204186,"{'width': 596, 'height': 336}","[{'x': 200.5, 'y': 114.0, 'width': 99.0, 'height': 36.0, 'confidence': 0.5550059080123901, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '89af4c39-3490-4f55-9275-a5efd0830ed2'}]"
+f162798f-c67b-4c2b-8280-643a3dfa0f80,0.048361518000092474,"{'width': 596, 'height': 336}",[]
+20923cc5-6176-4d58-bfee-3f726316bb5e,0.058343067999885534,"{'width': 596, 'height': 336}",[]
+fd313774-acb3-49bf-8a4c-c22b334c17b7,0.061498771000060515,"{'width': 596, 'height': 336}",[]
+29737b4a-a608-4e10-aaf4-349599fe5b2d,0.06829088799986494,"{'width': 596, 'height': 336}",[]
+9d1067b3-e2ec-46c3-9f87-e9a55fb47b60,0.07848828399983176,"{'width': 596, 'height': 336}",[]
+dd8b67c1-cae2-4405-ae6d-6e3488e31f7a,0.05331363400000555,"{'width': 596, 'height': 336}",[]
+c73083e9-b8cc-4f65-b09f-11874cf840d9,0.0530404159999307,"{'width': 596, 'height': 336}",[]
+201f57d0-26c6-4eec-9310-5204872c2c33,0.11433379299978697,"{'width': 596, 'height': 336}",[]
+62cacbe6-0a11-4fd0-b79a-17a7773e14fd,0.05375718599998436,"{'width': 596, 'height': 336}",[]
+e8527a0e-5622-4ef5-9270-340bd60d34df,0.05911286100035795,"{'width': 596, 'height': 336}",[]
+17b54932-aa76-4feb-8b62-2ee6d44802e7,0.05023757899971315,"{'width': 596, 'height': 336}",[]
+6ad70325-a160-4ecf-9f37-911e3077c5be,0.05356741900004636,"{'width': 596, 'height': 336}",[]
+ab21e63d-f4bd-4b9f-b8e1-0ed6b7f1383a,0.050603087000126834,"{'width': 596, 'height': 336}",[]
+33125a90-2f26-4c12-b302-e8eb7013176a,0.07299956499991822,"{'width': 596, 'height': 336}","[{'x': 189.0, 'y': 101.5, 'width': 88.0, 'height': 25.0, 'confidence': 0.4160253703594208, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '6252a80c-ba58-4c1e-ab03-2f7db63dea97'}]"
+450bedd9-b97e-4a31-9c3c-8bf0ae79a386,0.05721281299997827,"{'width': 596, 'height': 336}",[]
+a6ecdc03-85b6-40ab-8233-a6ea15074a7b,0.06255134299999554,"{'width': 596, 'height': 336}",[]
+1f654a30-d0c4-498b-94f0-697efca984b3,0.07716131600000153,"{'width': 596, 'height': 336}",[]
+a92bab4d-12d1-4517-bbfe-51fc80374934,0.050211207999836915,"{'width': 596, 'height': 336}",[]
+f1e5ef0c-556a-4876-8adb-e7d305f78c6b,0.05471385500004544,"{'width': 596, 'height': 336}",[]
+98ca6fa8-a487-4d34-a94b-dc830d9f87b1,0.06396226500010016,"{'width': 596, 'height': 336}",[]
+d9472159-7305-4d0e-ad16-3eb3ce7500f5,0.07925005400011287,"{'width': 596, 'height': 336}",[]
+23dc1b50-e5a9-493b-8003-a7417c9c1660,0.06563073000006625,"{'width': 596, 'height': 336}",[]
+018d09c9-4b50-42fd-be85-6694c23aaac9,0.059848045999842725,"{'width': 596, 'height': 336}","[{'x': 278.5, 'y': 271.0, 'width': 177.0, 'height': 108.0, 'confidence': 0.48220333456993103, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '77807936-c3f3-4f35-83fe-b270f97b2609'}]"
+1520c6d9-43b5-4e6d-97fe-50ebf100a72a,0.058552065000185394,"{'width': 596, 'height': 336}",[]
+84531cfe-ae73-4f12-9df7-3504a535fa34,0.07244637399981002,"{'width': 596, 'height': 336}","[{'x': 271.0, 'y': 263.0, 'width': 170.0, 'height': 106.0, 'confidence': 0.8350672721862793, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'acd68282-66d7-4d71-aa66-ad03d34bb9af'}]"
+e0672f0b-d8a7-4549-937c-e520da9fadf1,0.0680313230000138,"{'width': 596, 'height': 336}","[{'x': 269.0, 'y': 258.0, 'width': 168.0, 'height': 100.0, 'confidence': 0.8776431083679199, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '78d33fe9-a382-4849-86bd-82d72f99b376'}]"
+0e0811a2-7bf7-4278-86f2-ee6b049743a0,0.049878470999829005,"{'width': 596, 'height': 336}","[{'x': 267.5, 'y': 251.0, 'width': 167.0, 'height': 102.0, 'confidence': 0.47894543409347534, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '1c7a4c64-7078-4ec3-9cdb-ae6f638dccf6'}]"
+7b9561f2-3412-46f0-9d2d-0d005e92f0a5,0.05854277600019486,"{'width': 596, 'height': 336}",[]
+1ff10f3f-399c-49f5-a577-06d37cae126a,0.1306377269997938,"{'width': 596, 'height': 336}",[]
+cae14ca9-4c50-4a98-a7af-584ef4ec1c48,0.055034863999935624,"{'width': 596, 'height': 336}","[{'x': 264.5, 'y': 242.0, 'width': 177.0, 'height': 98.0, 'confidence': 0.5287806391716003, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '70f1accb-b55b-4df2-8375-1459f6f65892'}]"
+b06fd885-303c-43dd-9917-c83a2f5c7e0d,0.057860933000029036,"{'width': 596, 'height': 336}","[{'x': 269.5, 'y': 236.5, 'width': 191.0, 'height': 103.0, 'confidence': 0.4068548083305359, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'f6cef774-d0d4-496c-ab06-5527b748b26e'}]"
+05dba059-1e70-41ed-a39d-47c71e440bb8,0.10243638799965993,"{'width': 596, 'height': 336}","[{'x': 262.0, 'y': 245.5, 'width': 172.0, 'height': 73.0, 'confidence': 0.4130023717880249, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'f750420c-ec5e-49b9-bea3-b9b9f4c1e9bd'}]"
+1f7137f1-2aa0-4b76-9236-dae29d84bf19,0.05229917799999839,"{'width': 596, 'height': 336}","[{'x': 249.5, 'y': 231.5, 'width': 161.0, 'height': 91.0, 'confidence': 0.4097800850868225, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'b602cd97-b27d-4744-8c45-566f500fbcee'}]"
+6431eefe-d425-44f9-96fb-29e88c9d5e8f,0.06312412499937636,"{'width': 596, 'height': 336}","[{'x': 244.5, 'y': 226.5, 'width': 155.0, 'height': 87.0, 'confidence': 0.4032548666000366, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '62f772d9-ee43-41fc-a3af-d25d5068c122'}]"
+68cd1704-e198-4cca-970c-4e4a6c852c88,0.04936437300011676,"{'width': 596, 'height': 336}","[{'x': 243.0, 'y': 223.5, 'width': 154.0, 'height': 81.0, 'confidence': 0.8146451711654663, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': '515a97c2-f138-4a68-9cf7-9017224747e8'}]"
+0e0a7ecf-d42c-4935-86a4-ba0b3d2451f0,0.05770276699990973,"{'width': 596, 'height': 336}","[{'x': 242.0, 'y': 217.5, 'width': 150.0, 'height': 87.0, 'confidence': 0.8296891450881958, 'class': 'plastic-bottle', 'class_id': 0, 'detection_id': 'd9557d5e-f466-44b4-bee0-f6925b818a03'}]"

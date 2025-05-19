@@ -1,0 +1,479 @@
+inference_id,time,image,predictions
+acce4369-f35c-4a7a-b3b9-4f376c6ffcea,0.04091859499999373,"{'width': 994, 'height': 558}","[{'x': 499.0, 'y': 273.0, 'width': 914.0, 'height': 542.0, 'confidence': 0.7557791471481323, 'class': 'paper', 'class_id': 3, 'detection_id': '8e72578e-b23d-478c-b8d2-38c4684b83ad'}]"
+886d0cd2-486d-462e-906c-32563d6d98a2,0.0339380790001087,"{'width': 994, 'height': 558}","[{'x': 498.5, 'y': 272.5, 'width': 933.0, 'height': 533.0, 'confidence': 0.8120188117027283, 'class': 'paper', 'class_id': 3, 'detection_id': 'dfa242b7-b875-49a7-8e9f-23e25ce20d2a'}]"
+fb7e7a8a-df19-44e1-89f1-166878abcf35,0.034125373000051695,"{'width': 994, 'height': 558}","[{'x': 496.0, 'y': 268.5, 'width': 940.0, 'height': 531.0, 'confidence': 0.8356037139892578, 'class': 'paper', 'class_id': 3, 'detection_id': '821b6dd4-8db6-4f30-819f-d76e7161b93b'}]"
+f501f937-2930-4074-ad93-6e15542eecf1,0.0370188419999522,"{'width': 994, 'height': 558}","[{'x': 496.0, 'y': 268.5, 'width': 940.0, 'height': 531.0, 'confidence': 0.8358545303344727, 'class': 'paper', 'class_id': 3, 'detection_id': '0326c71a-1f2d-46b9-b576-85dced7ed235'}]"
+611272c2-4e9a-4191-8370-8a0643ed7036,0.04689790799966431,"{'width': 994, 'height': 558}","[{'x': 496.5, 'y': 269.0, 'width': 939.0, 'height': 530.0, 'confidence': 0.8314971327781677, 'class': 'paper', 'class_id': 3, 'detection_id': 'd39b9a1b-b3e6-4c3e-8d98-6c81ebbd2f5c'}]"
+97121ae9-952c-4db7-a4bb-f4b35d591453,0.03880878499967366,"{'width': 994, 'height': 558}","[{'x': 492.5, 'y': 272.0, 'width': 935.0, 'height': 530.0, 'confidence': 0.8056643605232239, 'class': 'paper', 'class_id': 3, 'detection_id': '037c2eb3-9aee-463f-bee9-6e8f3008a36e'}]"
+f9609d82-ded0-42a2-ab26-a7ee10c63ba9,0.053983918000085396,"{'width': 994, 'height': 558}","[{'x': 492.5, 'y': 272.0, 'width': 935.0, 'height': 530.0, 'confidence': 0.806388258934021, 'class': 'paper', 'class_id': 3, 'detection_id': '07903324-0266-4658-a052-19f3073bd264'}]"
+83de1f56-582c-440a-bb91-b9cec1d63485,0.03181857600020521,"{'width': 994, 'height': 558}","[{'x': 492.5, 'y': 272.0, 'width': 935.0, 'height': 530.0, 'confidence': 0.8065586090087891, 'class': 'paper', 'class_id': 3, 'detection_id': 'e8109a5b-1e56-49de-90d9-1e1a90eda4b2'}]"
+2423c830-0296-405c-b4c1-280d3a3c85eb,0.05866414899992378,"{'width': 994, 'height': 558}","[{'x': 488.5, 'y': 274.0, 'width': 923.0, 'height': 534.0, 'confidence': 0.7938567399978638, 'class': 'paper', 'class_id': 3, 'detection_id': '13459e2c-14cd-417d-ba3d-84bf8e5730e7'}]"
+098d6a41-2bcf-44d6-b188-66d4fc4ec07b,0.032781750000140164,"{'width': 994, 'height': 558}","[{'x': 488.5, 'y': 274.5, 'width': 923.0, 'height': 535.0, 'confidence': 0.8043484687805176, 'class': 'paper', 'class_id': 3, 'detection_id': '1b91b067-7194-4765-ac91-58f7139c3f03'}]"
+0c88ab75-fd6c-492e-b880-f7ef0523727c,0.03256665100002465,"{'width': 994, 'height': 558}","[{'x': 488.0, 'y': 274.0, 'width': 924.0, 'height': 534.0, 'confidence': 0.8036446571350098, 'class': 'paper', 'class_id': 3, 'detection_id': '728a0bac-759e-4f1e-bcf5-3a27a1ce58ac'}]"
+2ee3a683-ad42-483a-895a-cbcaac06e4dc,0.03259423500003322,"{'width': 994, 'height': 558}","[{'x': 488.0, 'y': 274.0, 'width': 922.0, 'height': 534.0, 'confidence': 0.8008611798286438, 'class': 'paper', 'class_id': 3, 'detection_id': '73a9ffaa-a5e1-44ee-a1d6-27f0c89f4f59'}]"
+21530a54-db96-40ff-8025-78787cf75aa0,0.03461293899999873,"{'width': 994, 'height': 558}","[{'x': 484.0, 'y': 275.0, 'width': 908.0, 'height': 544.0, 'confidence': 0.7291756868362427, 'class': 'paper', 'class_id': 3, 'detection_id': '944adb7f-f95d-48d2-9aa1-489330565ce8'}]"
+09e6ae9b-b879-4efd-b209-2d4f4c990af0,0.03808284599995204,"{'width': 994, 'height': 558}","[{'x': 484.0, 'y': 275.0, 'width': 908.0, 'height': 544.0, 'confidence': 0.7276104688644409, 'class': 'paper', 'class_id': 3, 'detection_id': '889f9df7-eca4-4c13-bcb8-e110ed585e12'}]"
+7d630f5d-000d-4779-bfe5-e60d79838880,0.05824980599982155,"{'width': 994, 'height': 558}","[{'x': 484.5, 'y': 275.0, 'width': 909.0, 'height': 544.0, 'confidence': 0.7325221300125122, 'class': 'paper', 'class_id': 3, 'detection_id': '43c45fa2-bb22-4748-b43a-a7f0d21c9ecd'}]"
+7525fab4-b3a4-49fc-ab13-46bbbdd0d297,0.03705278200050088,"{'width': 994, 'height': 558}","[{'x': 480.5, 'y': 272.0, 'width': 899.0, 'height': 542.0, 'confidence': 0.7109155058860779, 'class': 'paper', 'class_id': 3, 'detection_id': '112e33a5-1b1a-455e-87bf-4a8b4c1fc045'}]"
+3fb561ec-3075-4ead-bc0f-a30bf2c34010,0.03404790600052365,"{'width': 994, 'height': 558}","[{'x': 480.0, 'y': 272.0, 'width': 896.0, 'height': 542.0, 'confidence': 0.6987109184265137, 'class': 'paper', 'class_id': 3, 'detection_id': 'a49ef197-dbc0-4151-8b02-d019b7c8d150'}]"
+e64c9732-fe76-4446-9ae3-465a37848b4f,0.09106540600009794,"{'width': 994, 'height': 558}","[{'x': 478.0, 'y': 271.5, 'width': 892.0, 'height': 535.0, 'confidence': 0.8121562004089355, 'class': 'paper', 'class_id': 3, 'detection_id': 'a2d54b33-b3e4-4a06-8fd1-953fe6a53902'}]"
+7adb89cc-2364-493c-88a4-6deb1e54dd63,0.03353859400067449,"{'width': 994, 'height': 558}","[{'x': 477.0, 'y': 271.5, 'width': 888.0, 'height': 535.0, 'confidence': 0.8190016746520996, 'class': 'paper', 'class_id': 3, 'detection_id': 'e6d0fff0-35f0-4736-9ec0-e1146f59f74f'}]"
+5d4b4327-2b7d-4338-8163-897496e7aa08,0.036330284000086976,"{'width': 994, 'height': 558}","[{'x': 476.5, 'y': 272.5, 'width': 897.0, 'height': 533.0, 'confidence': 0.8372377157211304, 'class': 'paper', 'class_id': 3, 'detection_id': '69d9590f-0c19-4889-896a-51f7bea830d2'}]"
+43da9185-1586-4619-851a-14efca2bcc75,0.033168587999853116,"{'width': 994, 'height': 558}","[{'x': 475.5, 'y': 272.5, 'width': 895.0, 'height': 533.0, 'confidence': 0.8280657529830933, 'class': 'paper', 'class_id': 3, 'detection_id': 'f9855e61-c8b3-4acd-b67f-1628e6fd3c01'}]"
+a15548d2-72a2-43da-8375-0db65d04ed4b,0.03202142900045146,"{'width': 994, 'height': 558}","[{'x': 480.0, 'y': 272.0, 'width': 914.0, 'height': 534.0, 'confidence': 0.8466416597366333, 'class': 'paper', 'class_id': 3, 'detection_id': '50c1a095-e9cf-4911-88b8-4387b2f2dc17'}]"
+6e5fecf6-7f54-40ab-b28d-3cbfb23ad8f5,0.03631377700003213,"{'width': 994, 'height': 558}","[{'x': 480.0, 'y': 272.0, 'width': 914.0, 'height': 534.0, 'confidence': 0.8452562093734741, 'class': 'paper', 'class_id': 3, 'detection_id': 'bd9f29a1-bcee-4fb1-b339-6f1f3a24adc7'}]"
+977ef6e3-4ed6-4b93-8fd2-733f689ef86e,0.03496973599976627,"{'width': 994, 'height': 558}","[{'x': 480.0, 'y': 272.0, 'width': 914.0, 'height': 534.0, 'confidence': 0.8451628684997559, 'class': 'paper', 'class_id': 3, 'detection_id': 'ec5f5744-e8f1-4d77-9109-bc7cc04a257c'}]"
+5e70d8d6-06cb-4545-80e6-7c8f917cdbaf,0.058145942999999534,"{'width': 994, 'height': 558}","[{'x': 480.5, 'y': 272.0, 'width': 915.0, 'height': 534.0, 'confidence': 0.8497874140739441, 'class': 'paper', 'class_id': 3, 'detection_id': '218a230f-0374-415c-8e49-73588d1e2d5c'}]"
+29969ed1-b691-4889-a1f7-6a1f5f28ac18,0.04894586299997172,"{'width': 994, 'height': 558}","[{'x': 482.5, 'y': 269.5, 'width': 921.0, 'height': 533.0, 'confidence': 0.8336980938911438, 'class': 'paper', 'class_id': 3, 'detection_id': '08808864-2d86-4490-ae16-452529d1f834'}]"
+6542a5d6-747b-4f83-a2f1-910d0ff80cc3,0.05376893199991173,"{'width': 994, 'height': 558}","[{'x': 482.5, 'y': 269.5, 'width': 919.0, 'height': 533.0, 'confidence': 0.8406522870063782, 'class': 'paper', 'class_id': 3, 'detection_id': 'b1db73d6-a4a3-44ab-98b5-628056db58f8'}]"
+a4cb42e6-9da6-47e0-b8a8-8fdd562baa8c,0.04621946699990076,"{'width': 994, 'height': 558}","[{'x': 483.5, 'y': 264.5, 'width': 905.0, 'height': 521.0, 'confidence': 0.7581399083137512, 'class': 'paper', 'class_id': 3, 'detection_id': 'a3bc8ff6-f00c-4bcb-a90c-424f0764ca7b'}]"
+fd65954c-62c8-4c7a-b6c3-2855f3905fc0,0.038888983000106236,"{'width': 994, 'height': 558}","[{'x': 483.0, 'y': 264.5, 'width': 904.0, 'height': 521.0, 'confidence': 0.7621161341667175, 'class': 'paper', 'class_id': 3, 'detection_id': '486fedd8-968d-4720-a0c4-0530b1ad1515'}]"
+09b7da53-f255-4e9c-b7b6-ddfc481cdcf6,0.0313893630000166,"{'width': 994, 'height': 558}","[{'x': 484.0, 'y': 263.5, 'width': 908.0, 'height': 521.0, 'confidence': 0.7716178297996521, 'class': 'paper', 'class_id': 3, 'detection_id': '4c23b99e-7f9e-4a64-aa5d-1da870e89e3c'}]"
+246684bc-2e6d-4cbd-99f9-addd03c2a798,0.04109539900036907,"{'width': 994, 'height': 558}","[{'x': 484.0, 'y': 263.5, 'width': 908.0, 'height': 521.0, 'confidence': 0.7595920562744141, 'class': 'paper', 'class_id': 3, 'detection_id': '627011b8-ad71-4e52-ab06-0b141ee9aeb1'}]"
+b7f08837-e4ea-4bc8-ba33-f3019acc9810,0.035309998999991876,"{'width': 994, 'height': 558}","[{'x': 482.0, 'y': 267.0, 'width': 916.0, 'height': 530.0, 'confidence': 0.7227729558944702, 'class': 'paper', 'class_id': 3, 'detection_id': '3bee5b56-e520-45f6-a0d9-2354e147cd07'}]"
+b6e61f2d-5e49-4258-96db-b24049352ea5,0.03835499399974651,"{'width': 994, 'height': 558}","[{'x': 481.5, 'y': 266.0, 'width': 915.0, 'height': 532.0, 'confidence': 0.7039576768875122, 'class': 'paper', 'class_id': 3, 'detection_id': '7411c810-ed76-4efc-9e31-e0e45d5b8b60'}]"
+dcfa0dc2-d495-4a02-8853-305149704e04,0.034585417000016605,"{'width': 994, 'height': 558}","[{'x': 487.5, 'y': 271.5, 'width': 933.0, 'height': 535.0, 'confidence': 0.8255165815353394, 'class': 'paper', 'class_id': 3, 'detection_id': '959df7c8-eae8-4413-838a-c07c376598a1'}]"
+896117d6-13ed-4598-b538-1d0c7c63ce8e,0.03851988299993536,"{'width': 994, 'height': 558}","[{'x': 486.5, 'y': 270.5, 'width': 933.0, 'height': 533.0, 'confidence': 0.8226613998413086, 'class': 'paper', 'class_id': 3, 'detection_id': 'c8db34ae-f3e6-4f23-b128-be87022e6425'}]"
+ff56ecd4-7f5e-4816-aaa3-ea02ab4ecaea,0.03432749000012336,"{'width': 994, 'height': 558}","[{'x': 487.0, 'y': 270.0, 'width': 932.0, 'height': 532.0, 'confidence': 0.8100569248199463, 'class': 'paper', 'class_id': 3, 'detection_id': 'a98f9638-b54f-4bd8-9fcd-47645b7a45bb'}]"
+e55ef261-deb6-4f82-9a8c-5f3eb99e1f29,0.03965443300012339,"{'width': 994, 'height': 558}","[{'x': 487.5, 'y': 272.0, 'width': 919.0, 'height': 532.0, 'confidence': 0.7825638055801392, 'class': 'paper', 'class_id': 3, 'detection_id': '91b984aa-ba4c-406e-b4bb-43c353cd2185'}]"
+fbcf12a4-49a3-4a48-92f1-84690e32ef95,0.03617803599991021,"{'width': 994, 'height': 558}","[{'x': 488.0, 'y': 272.0, 'width': 918.0, 'height': 532.0, 'confidence': 0.7848055958747864, 'class': 'paper', 'class_id': 3, 'detection_id': '7351bd11-648d-4e0e-9416-cea75dd12afa'}]"
+01bc6f29-adc7-4460-a606-efdfc3417367,0.042735419999644364,"{'width': 994, 'height': 558}","[{'x': 487.5, 'y': 272.0, 'width': 919.0, 'height': 534.0, 'confidence': 0.7857629656791687, 'class': 'paper', 'class_id': 3, 'detection_id': '2d1000c1-1575-4076-beef-89882ca80dba'}]"
+9df9bd67-0d1c-42ce-a3ea-c3b96acbc8c5,0.04440051899928221,"{'width': 994, 'height': 558}","[{'x': 488.0, 'y': 272.0, 'width': 922.0, 'height': 534.0, 'confidence': 0.7837532758712769, 'class': 'paper', 'class_id': 3, 'detection_id': '110da9d8-7024-49cc-8837-783029837a1a'}]"
+d8edb713-4cc0-450a-96ad-2d95c5efb48f,0.040574260999846956,"{'width': 994, 'height': 558}","[{'x': 487.5, 'y': 272.0, 'width': 907.0, 'height': 540.0, 'confidence': 0.6603058576583862, 'class': 'paper', 'class_id': 3, 'detection_id': '122b5f89-beb7-46dd-8922-fb98e1c01057'}]"
+6c0d6365-06cc-4da4-b5c4-9f6598f157c3,0.031703403000165054,"{'width': 994, 'height': 558}","[{'x': 488.0, 'y': 273.5, 'width': 906.0, 'height': 537.0, 'confidence': 0.6935442686080933, 'class': 'paper', 'class_id': 3, 'detection_id': '0ef57b65-103b-41d8-9729-1b6ab562b271'}]"
+57bf4eb5-3210-4eee-a999-18909bf36f61,0.031601424999962546,"{'width': 994, 'height': 558}","[{'x': 487.5, 'y': 273.5, 'width': 907.0, 'height': 537.0, 'confidence': 0.6928993463516235, 'class': 'paper', 'class_id': 3, 'detection_id': '3b5ede34-7388-4b3b-b8b1-71526aabf00a'}]"
+297892e3-693f-484b-b080-2198f03e0742,0.04435809899996457,"{'width': 994, 'height': 558}","[{'x': 488.5, 'y': 276.5, 'width': 913.0, 'height': 541.0, 'confidence': 0.6604878902435303, 'class': 'paper', 'class_id': 3, 'detection_id': 'cafbe3c1-b511-49f0-935d-439731a829a7'}]"
+e7bf00e9-2e01-4ebc-92ed-1b0b23d1cf19,0.04533486900027128,"{'width': 994, 'height': 558}","[{'x': 489.0, 'y': 276.0, 'width': 914.0, 'height': 540.0, 'confidence': 0.683156430721283, 'class': 'paper', 'class_id': 3, 'detection_id': '618383f2-fca3-4228-b289-5fa7c715ca1c'}]"
+accd32d7-d657-4bb2-b2b7-2f78e18030a3,0.041726624999682826,"{'width': 994, 'height': 558}","[{'x': 484.0, 'y': 273.0, 'width': 914.0, 'height': 546.0, 'confidence': 0.5222959518432617, 'class': 'paper', 'class_id': 3, 'detection_id': '1f912cc6-ddc6-496a-bdaa-26fcebabd8ef'}]"
+b912227c-9eec-4c72-860d-375fbc2f64b1,0.033050344999992376,"{'width': 994, 'height': 558}","[{'x': 484.5, 'y': 273.5, 'width': 913.0, 'height': 545.0, 'confidence': 0.5247105360031128, 'class': 'paper', 'class_id': 3, 'detection_id': 'a23eaa18-4886-4392-9280-81d0130a57ba'}]"
+08680735-84c6-4c2e-b60c-c53e74fb2c5a,0.034006832999921244,"{'width': 994, 'height': 558}","[{'x': 484.0, 'y': 273.0, 'width': 914.0, 'height': 546.0, 'confidence': 0.5179182887077332, 'class': 'paper', 'class_id': 3, 'detection_id': 'c3ba80de-b217-4de8-8763-7488575182ed'}]"
+6a1391fb-6af4-4f53-9b99-958b14ce89a6,0.03819575300076394,"{'width': 994, 'height': 558}","[{'x': 483.5, 'y': 273.5, 'width': 917.0, 'height': 547.0, 'confidence': 0.4994686245918274, 'class': 'paper', 'class_id': 3, 'detection_id': '74de71e6-cd59-4c87-ac10-ad6eb99dbf28'}]"
+a46f197e-9cbe-4dc1-aa45-9464626e4e73,0.03990965299999516,"{'width': 994, 'height': 558}","[{'x': 488.0, 'y': 270.0, 'width': 918.0, 'height': 540.0, 'confidence': 0.48434245586395264, 'class': 'paper', 'class_id': 3, 'detection_id': 'ccbd3288-37fc-4a3d-864e-57fb0e062e0c'}]"
+882cf3d9-5719-4dbe-99f6-946de42e7096,0.03760969700033456,"{'width': 994, 'height': 558}","[{'x': 488.0, 'y': 270.0, 'width': 918.0, 'height': 540.0, 'confidence': 0.4747701585292816, 'class': 'paper', 'class_id': 3, 'detection_id': '37f9b608-06c6-4460-8eca-d4da8a5b7ddf'}]"
+506388ec-f441-49ac-b455-d10dfcc506a2,0.10786988199970438,"{'width': 994, 'height': 558}",[]
+393aca2a-22c1-424b-9d74-983bd8c1d9d4,0.034659521999856224,"{'width': 994, 'height': 558}",[]
+e3347989-612a-43c1-8801-4d8e7f324511,0.030646973999864713,"{'width': 994, 'height': 558}",[]
+e5881de1-e90b-4e4c-a9ae-82465c3bac2e,0.030446631999438978,"{'width': 994, 'height': 558}",[]
+4ae08a79-b4f8-461d-ac6b-a03b4b2e3a42,0.031007259000034537,"{'width': 994, 'height': 558}",[]
+637891f3-0440-4856-8d9c-ba415064ced4,0.0406745360005516,"{'width': 994, 'height': 558}",[]
+431ec41c-09a2-4c79-82a6-3e17ecf8d7d0,0.031780370999968,"{'width': 994, 'height': 558}",[]
+72a4a7b1-d8fe-4fc7-ad7f-0bc3a4d04859,0.03281512200010184,"{'width': 994, 'height': 558}",[]
+4d227b77-31eb-4903-8812-d110fecdaea9,0.03279363799993007,"{'width': 994, 'height': 558}",[]
+4b03596f-543d-4783-8070-fb730923e5cb,0.030763115000127073,"{'width': 994, 'height': 558}",[]
+ae0ae2a0-5f43-4c9c-8540-edbe0950ed8b,0.09989406799968492,"{'width': 994, 'height': 558}",[]
+b88b68b6-bded-496b-9968-24027d8f082b,0.04938041900004464,"{'width': 994, 'height': 558}",[]
+492fc74f-9a2c-467d-9d6d-0c43000f3761,0.03482332000021415,"{'width': 994, 'height': 558}",[]
+5135513c-faad-4564-860a-4b90474b381a,0.03220715800011931,"{'width': 994, 'height': 558}",[]
+51199813-992d-4de2-a6fb-026215d9a779,0.06692672699955438,"{'width': 994, 'height': 558}",[]
+e9e05171-1bdd-4942-a26f-5aabf1f084f3,0.03305331399997158,"{'width': 994, 'height': 558}",[]
+e8b686b7-9fdf-412d-b625-58d95ec86743,0.030937457000163704,"{'width': 994, 'height': 558}",[]
+bd5ca840-9b46-4dbc-80b3-a83f5e259d13,0.04439495700034968,"{'width': 994, 'height': 558}",[]
+5763231e-6579-4821-ba9c-3d4890a75e8b,0.0310029620000023,"{'width': 994, 'height': 558}",[]
+9a788ae0-2bed-49a5-9b7a-6dbf57a484e5,0.03515755500029627,"{'width': 994, 'height': 558}",[]
+577ea1b1-47b9-4c2d-b171-e55b2ca158ed,0.03293202600002587,"{'width': 994, 'height': 558}",[]
+c869fc94-843a-42be-bbd3-22e43f1cb605,0.04734314600000289,"{'width': 994, 'height': 558}",[]
+da402512-a566-4ed1-a8fa-b5e8a4c94b67,0.06260960499980683,"{'width': 994, 'height': 558}",[]
+d3350b5d-d71e-4339-bb64-a18647d89b5e,0.034130263000179184,"{'width': 994, 'height': 558}",[]
+503881c8-3d3b-4556-8df6-04606a446823,0.04441668700019363,"{'width': 994, 'height': 558}",[]
+09149f50-e446-4c52-937e-f4c7850a7c4b,0.03042544100003397,"{'width': 994, 'height': 558}",[]
+52ea5cfd-74f6-4b98-8d12-deba070ec19f,0.03422889899979964,"{'width': 994, 'height': 558}",[]
+c1ea5daf-7b7a-4513-a539-e547620d4f1d,0.033548514000131036,"{'width': 994, 'height': 558}",[]
+3065f784-d01c-41a1-bebe-153a6c2d4a90,0.04102248399999553,"{'width': 994, 'height': 558}",[]
+31459b8e-3ef0-49d8-8d01-83b2eb2f2d97,0.047866556999906607,"{'width': 994, 'height': 558}",[]
+bd0a86d9-47f8-474b-a79a-6a8024ef3fa1,0.03315453899995191,"{'width': 994, 'height': 558}",[]
+5e5419bd-48f2-419f-b9f8-e7333651d9f0,0.0434068079998724,"{'width': 994, 'height': 558}",[]
+b9f7a48d-bec0-41f8-b2c4-7fa9874cb3c0,0.03981675500017445,"{'width': 994, 'height': 558}",[]
+fded532a-dfbf-43f1-9a60-9c03c0fcd592,0.033466190999661194,"{'width': 994, 'height': 558}",[]
+fdaa8926-5e3b-4132-ad50-23d105ef0044,0.04404334099990592,"{'width': 994, 'height': 558}",[]
+ae63cc92-f407-42b0-abfb-42bdb1dcf7c6,0.0469857050002247,"{'width': 994, 'height': 558}",[]
+8ce73a1a-22f4-4873-b490-0d13b1664902,0.03275472300083493,"{'width': 994, 'height': 558}",[]
+e3d6878a-b10c-4dc8-b064-ade4ba12cb38,0.03979228800017154,"{'width': 994, 'height': 558}",[]
+e87f8694-b96f-444f-8d9c-40c82e634177,0.03290954000021884,"{'width': 994, 'height': 558}",[]
+03e1f722-65bb-443c-807a-5ddd4664cde2,0.03631181499986269,"{'width': 994, 'height': 558}",[]
+35e33f51-24ff-4706-a182-6828071d0cb4,0.03083807799976057,"{'width': 994, 'height': 558}",[]
+43cced8d-bf3e-4f2b-ad2d-b55573d667cc,0.034135376999984146,"{'width': 994, 'height': 558}",[]
+9ae0d517-7ca2-4ca3-9140-754f02528fed,0.031088222999642312,"{'width': 994, 'height': 558}",[]
+49db1c2e-1389-4037-8613-f702cde07225,0.030572238999866386,"{'width': 994, 'height': 558}",[]
+3a621d49-40f5-44db-9ccb-22da88adfbdc,0.0359008260002156,"{'width': 994, 'height': 558}",[]
+102c49bc-7aac-4e42-86c3-1aac78b86975,0.0352203840002403,"{'width': 994, 'height': 558}",[]
+798414d3-a266-4fac-9c01-69c41cfa733f,0.030544088000169722,"{'width': 994, 'height': 558}",[]
+c4bd1d29-f1f1-485b-b029-7695d50f61dc,0.03803938500004733,"{'width': 994, 'height': 558}",[]
+48000af1-4d10-4bff-a455-e6ff11fdf00c,0.035756098000092607,"{'width': 994, 'height': 558}",[]
+dc31d909-0d4f-4a8b-a7b2-4633858749bd,0.03206493900006535,"{'width': 994, 'height': 558}",[]
+75bc188e-6871-4992-a316-9296157995af,0.030348854000294523,"{'width': 994, 'height': 558}",[]
+7a31ead7-5455-47e4-839e-df0151629873,0.031172684999546618,"{'width': 994, 'height': 558}",[]
+a26239c2-bfef-4b05-a30f-316051da2e7a,0.03358716500042647,"{'width': 994, 'height': 558}",[]
+a9b278c6-1727-4dda-8a4c-aeb8a90e236c,0.03346525200049655,"{'width': 994, 'height': 558}",[]
+1640ffa5-e380-400f-b067-269f75977cc3,0.034370631000001595,"{'width': 994, 'height': 558}",[]
+33f10e9f-f677-4e28-b018-afd09b4e2110,0.03152961099976892,"{'width': 994, 'height': 558}",[]
+d316d04f-27d3-427d-9c87-c95f01816f46,0.03424768500008213,"{'width': 994, 'height': 558}",[]
+61d90c49-20f4-473a-80ff-584cff8c1145,0.036312628999894514,"{'width': 994, 'height': 558}",[]
+4dddba1f-82b1-4a91-9d61-062c3cb6d175,0.09759338000003481,"{'width': 994, 'height': 558}",[]
+b10c5b68-45b0-4dec-871c-5a75c1e8870e,0.05626858699997683,"{'width': 994, 'height': 558}",[]
+22fe5956-abdc-4d1c-88d7-64a71d020dd4,0.04265421600030095,"{'width': 994, 'height': 558}",[]
+67af1e1e-5f59-4269-9f40-0f03708ba7b1,0.08591759999990245,"{'width': 994, 'height': 558}",[]
+e9f92daf-087f-4d73-a1c1-b2a6e8ba9c68,0.04737407399989024,"{'width': 994, 'height': 558}",[]
+896072b6-4161-40e4-b91d-ee975e7d7b66,0.034467208000023675,"{'width': 994, 'height': 558}",[]
+861db994-6d4d-4a67-9cbb-d91fe68415c1,0.04115822100084188,"{'width': 994, 'height': 558}",[]
+179c849d-6eaa-49a0-bba9-0f2fff930bb4,0.03341438699953869,"{'width': 994, 'height': 558}",[]
+11a2e29e-e6db-4ea6-9c47-58f6226d7f10,0.03150757200000953,"{'width': 994, 'height': 558}",[]
+045f3e51-e190-4ba5-a682-0d7310d70358,0.038423513999987335,"{'width': 994, 'height': 558}",[]
+fd52283a-01a8-498e-82f7-fef987a47ed9,0.03399195699967095,"{'width': 994, 'height': 558}",[]
+38bb7475-2a86-4418-a6b9-d231a5da54f5,0.039716692000183684,"{'width': 994, 'height': 558}",[]
+c091f636-a54f-4ab6-ae15-3359bdbcc169,0.03908043000001271,"{'width': 994, 'height': 558}",[]
+a2860fe1-5958-46fc-a9e4-a729f7bd588d,0.032415640000181156,"{'width': 994, 'height': 558}",[]
+493d511e-1637-43cc-87e4-6c82d418b44a,0.03314809699986654,"{'width': 994, 'height': 558}",[]
+72a2deaf-97f8-4f4a-9c9d-19c111cdf93f,0.03291105400057859,"{'width': 994, 'height': 558}",[]
+6207d02d-0256-4ac5-8863-342a29dccd34,0.08635940999988634,"{'width': 994, 'height': 558}","[{'x': 482.0, 'y': 286.0, 'width': 946.0, 'height': 544.0, 'confidence': 0.4184182286262512, 'class': 'paper', 'class_id': 3, 'detection_id': '33ec0be0-0799-45b9-b7a1-3f4a3cfcda65'}]"
+cb64235c-2920-4f0a-a7c3-441985fc0940,0.0310840800002552,"{'width': 994, 'height': 558}","[{'x': 481.5, 'y': 288.5, 'width': 931.0, 'height': 537.0, 'confidence': 0.5572887659072876, 'class': 'paper', 'class_id': 3, 'detection_id': '3de48b3e-6335-4130-940d-117e906675d8'}]"
+140097c0-6c22-497d-8d65-a53e63384e87,0.03546130000017911,"{'width': 994, 'height': 558}","[{'x': 488.5, 'y': 288.5, 'width': 951.0, 'height': 539.0, 'confidence': 0.5090926885604858, 'class': 'paper', 'class_id': 3, 'detection_id': '9341abd5-c705-4a9d-a27f-6c514b1177a4'}]"
+ef858139-1844-4190-bc41-079dec99f6fd,0.03111275400078739,"{'width': 994, 'height': 558}","[{'x': 489.0, 'y': 289.0, 'width': 954.0, 'height': 538.0, 'confidence': 0.49620866775512695, 'class': 'paper', 'class_id': 3, 'detection_id': '1303bf55-1f84-448c-b675-3c51dc63d83c'}]"
+e3c9b080-0042-444c-901d-1a2b7cf22974,0.03530824299923552,"{'width': 994, 'height': 558}","[{'x': 489.0, 'y': 289.0, 'width': 960.0, 'height': 538.0, 'confidence': 0.4441002309322357, 'class': 'paper', 'class_id': 3, 'detection_id': '00bb5af4-1361-4731-a4aa-08d0790a4dc2'}]"
+3f688150-b91a-4eb4-8fbc-13a8f2ad9683,0.07503460899988568,"{'width': 994, 'height': 558}","[{'x': 489.0, 'y': 289.0, 'width': 952.0, 'height': 538.0, 'confidence': 0.4841914176940918, 'class': 'paper', 'class_id': 3, 'detection_id': 'abb1a7c3-2700-4cb3-900d-7f35343a0ba4'}]"
+ec91c038-dab0-4830-9100-770dc8ba9dfd,0.030810264000137977,"{'width': 994, 'height': 558}","[{'x': 489.5, 'y': 288.5, 'width': 953.0, 'height': 539.0, 'confidence': 0.4897792637348175, 'class': 'paper', 'class_id': 3, 'detection_id': '18642de2-36b3-40b0-8d67-823e8660927b'}]"
+088c9f4e-b346-44a2-8b67-a2de3524f637,0.07178227999997944,"{'width': 994, 'height': 558}","[{'x': 489.0, 'y': 279.0, 'width': 942.0, 'height': 558.0, 'confidence': 0.48224979639053345, 'class': 'paper', 'class_id': 3, 'detection_id': '3b7e2e4b-83ad-430d-8a72-9080b1a07b68'}]"
+c2ab831a-d2c7-4c83-b83d-50b900a2ccbf,0.06654089299991028,"{'width': 994, 'height': 558}","[{'x': 491.5, 'y': 279.0, 'width': 971.0, 'height': 558.0, 'confidence': 0.45549076795578003, 'class': 'paper', 'class_id': 3, 'detection_id': 'c5721b70-9407-4805-81b1-2d945ee6cbab'}]"
+2afed45f-5d36-44b5-98d5-6e9e966a2f53,0.031044207000377355,"{'width': 994, 'height': 558}","[{'x': 491.5, 'y': 279.0, 'width': 973.0, 'height': 558.0, 'confidence': 0.45600613951683044, 'class': 'paper', 'class_id': 3, 'detection_id': 'd4adbee9-3246-4c11-b7a2-8552ac8f5887'}]"
+3435f4b9-06fe-4d54-b448-01a17f267cda,0.050715540000055626,"{'width': 994, 'height': 558}","[{'x': 492.0, 'y': 279.0, 'width': 976.0, 'height': 558.0, 'confidence': 0.45774978399276733, 'class': 'paper', 'class_id': 3, 'detection_id': '90e43ad5-280e-48c0-bbc6-71020fc8fefa'}]"
+9dea1dec-6d30-43ad-82a5-ce38ea9b363b,0.03465317300015158,"{'width': 994, 'height': 558}","[{'x': 490.0, 'y': 276.0, 'width': 950.0, 'height': 552.0, 'confidence': 0.5625271797180176, 'class': 'paper', 'class_id': 3, 'detection_id': '4a5a2b14-de93-4ee0-8dd3-2726721e2b0b'}]"
+8295e049-ab92-47fc-a0e2-53d2eabdc8e6,0.04500806299984106,"{'width': 994, 'height': 558}","[{'x': 489.0, 'y': 276.0, 'width': 950.0, 'height': 552.0, 'confidence': 0.5789239406585693, 'class': 'paper', 'class_id': 3, 'detection_id': 'bbd16b7a-c1ff-4a07-9e3d-79726609d5d8'}]"
+902acfca-4c8a-4943-9bee-c4b5e714c8ef,0.03662123599951883,"{'width': 994, 'height': 558}","[{'x': 491.5, 'y': 275.0, 'width': 955.0, 'height': 550.0, 'confidence': 0.502049446105957, 'class': 'paper', 'class_id': 3, 'detection_id': 'a2ad7d13-c2d0-461a-a338-e5511a9fbdb6'}]"
+e63550de-dbf6-44ad-b0dd-6225b92227b2,0.04457393999973647,"{'width': 994, 'height': 558}","[{'x': 492.0, 'y': 275.0, 'width': 954.0, 'height': 550.0, 'confidence': 0.5376259088516235, 'class': 'paper', 'class_id': 3, 'detection_id': '2d863595-f191-4136-97ca-78db455848da'}]"
+0a437676-eb24-4d62-ace2-58901bb79e1f,0.031030932999783545,"{'width': 994, 'height': 558}","[{'x': 492.5, 'y': 275.5, 'width': 955.0, 'height': 547.0, 'confidence': 0.4236842691898346, 'class': 'paper', 'class_id': 3, 'detection_id': '85ab2c7c-6889-4917-bf33-1403d0e24ec7'}]"
+02ccd840-92fb-4cab-8c7d-ef436b4708cb,0.045072846000039135,"{'width': 994, 'height': 558}",[]
+60bc7878-6583-4b09-9a7d-e96791255aa2,0.032372896000197215,"{'width': 994, 'height': 558}",[]
+c9f58633-c602-4715-ae3b-efc7fa07dd81,0.03526759200030938,"{'width': 994, 'height': 558}",[]
+b3fad1a1-3418-4be2-908f-6a7911a405b9,0.032129259000612365,"{'width': 994, 'height': 558}",[]
+4e2f9993-6817-4570-bd1b-10c2518bb165,0.031040839000070264,"{'width': 994, 'height': 558}",[]
+d0f44b90-6677-4a96-a9c4-b1848407ac8b,0.03345827700013615,"{'width': 994, 'height': 558}",[]
+97105033-ec31-42c8-86d0-414e27ba838d,0.03353898199975447,"{'width': 994, 'height': 558}",[]
+72d57e39-8fb0-46e3-a0b4-a6d70d3f28dd,0.0905675859994517,"{'width': 994, 'height': 558}",[]
+12e91b77-31e9-4dc1-b00f-04568e5e0977,0.042050363999805995,"{'width': 994, 'height': 558}",[]
+a43a14c8-b029-4d67-a99d-3d91b8b44a98,0.12664612599996872,"{'width': 994, 'height': 558}",[]
+6c9d0069-90b8-49ed-820b-e58f39aa2b40,0.03101763800077606,"{'width': 994, 'height': 558}",[]
+da4cbc2c-162d-4ae9-8454-b655c7d0bf8f,0.031401073000324686,"{'width': 994, 'height': 558}",[]
+b1c09a56-1b35-455a-831f-b33e53c46010,0.03611993800041091,"{'width': 994, 'height': 558}",[]
+f33933b0-470f-4cf3-83e8-63804f46f2f0,0.035821775999920646,"{'width': 994, 'height': 558}",[]
+1a15074e-777d-4cbe-a129-ea0946a35966,0.03689219599982607,"{'width': 994, 'height': 558}",[]
+edb8f2a8-ff77-49a6-b7f7-d56b9f216741,0.04307451499994386,"{'width': 994, 'height': 558}",[]
+98f6b340-4640-4961-9bc1-0a7ee7c4163c,0.044262902999889775,"{'width': 994, 'height': 558}",[]
+4aa60aba-4833-4342-95de-ce8a8fd5a56f,0.06518024599972705,"{'width': 994, 'height': 558}",[]
+2e3c5790-d319-4dc8-8b8d-4e5af2a9e93c,0.0554252189995168,"{'width': 994, 'height': 558}",[]
+530af1c4-6a61-49bd-966c-1e59137beb03,0.057322809999959645,"{'width': 994, 'height': 558}",[]
+df909802-36b2-4a4f-bf19-c46072cbf09c,0.04054486399945745,"{'width': 994, 'height': 558}",[]
+56ed4f19-c5db-45db-b7c4-b64913776213,0.04297586299981049,"{'width': 994, 'height': 558}",[]
+f8f5fb2b-b0af-4c34-b847-3cf543ccef09,0.036924425000506744,"{'width': 994, 'height': 558}",[]
+9e77eca2-24fa-49bd-aebe-2f811bf1bde8,0.045446952000020246,"{'width': 994, 'height': 558}",[]
+164b97d9-53d6-4eb2-9833-a772ef360023,0.06454773399946134,"{'width': 994, 'height': 558}",[]
+d2b87de4-55c3-4184-b96c-dcc3f8ecb3b9,0.03538043599928642,"{'width': 994, 'height': 558}",[]
+4533cd0a-dd53-4be2-a12b-9461540ee30e,0.038216909999391646,"{'width': 994, 'height': 558}",[]
+bb0fbbde-c57d-4af3-9deb-941c00ff6cac,0.04135261099963827,"{'width': 994, 'height': 558}","[{'x': 483.0, 'y': 275.0, 'width': 966.0, 'height': 550.0, 'confidence': 0.5701229572296143, 'class': 'paper', 'class_id': 3, 'detection_id': '7bdf3a37-f1ae-4048-a6fd-ed8ec24e8926'}]"
+4f1ef5f0-2a87-417e-867d-caed9a99c2e0,0.03242071900058363,"{'width': 994, 'height': 558}","[{'x': 481.0, 'y': 274.0, 'width': 962.0, 'height': 548.0, 'confidence': 0.5994784832000732, 'class': 'paper', 'class_id': 3, 'detection_id': '869e7d1c-42f7-482d-bec2-e3483a4f094e'}]"
+e4960d9d-dadd-4b53-89f7-47c488ede792,0.03506608099996811,"{'width': 994, 'height': 558}",[]
+cd44b044-ef55-4459-8c30-568ea370173c,0.03365914000005432,"{'width': 994, 'height': 558}",[]
+d0c30af5-1fa4-4be8-b82c-29a9ef017d33,0.06503276900002675,"{'width': 994, 'height': 558}",[]
+bc26cb5c-fe0e-4901-9c5c-d6b23d8e640d,0.1852491839999857,"{'width': 994, 'height': 558}",[]
+60c80fbe-85ef-4970-a470-1c986e885426,0.08253711900033522,"{'width': 994, 'height': 558}",[]
+b6be25ea-347c-4546-bc2a-9fbc3df85998,0.04775588600023184,"{'width': 994, 'height': 558}",[]
+61eb11ef-743f-4e77-8048-b63272302beb,0.0857501520004007,"{'width': 994, 'height': 558}",[]
+4ab21e0c-eb00-4c7f-997b-f04325bd4956,0.04294216000016604,"{'width': 994, 'height': 558}",[]
+a4aa10d2-bf91-464b-84c1-2dfe6e7ecf05,0.042966918000274745,"{'width': 994, 'height': 558}",[]
+8bd5a5f5-1e46-4a1f-ad63-19b7d12461e9,0.03389728899992406,"{'width': 994, 'height': 558}",[]
+1b12203b-a862-428c-8262-56c9af37fe43,0.039990242999920156,"{'width': 994, 'height': 558}","[{'x': 563.5, 'y': 275.0, 'width': 815.0, 'height': 550.0, 'confidence': 0.5520060062408447, 'class': 'paper', 'class_id': 3, 'detection_id': 'e20215f7-f806-45ad-a2b0-0f9edf1376b6'}]"
+fc0d4b09-b973-4468-8253-3e7625b7bb55,0.03731439299917838,"{'width': 994, 'height': 558}","[{'x': 563.5, 'y': 275.0, 'width': 813.0, 'height': 550.0, 'confidence': 0.5490912795066833, 'class': 'paper', 'class_id': 3, 'detection_id': 'd95c792c-60f1-40ae-8b14-c8f74f8acea8'}]"
+637330fb-94dd-48e8-8d77-f6f887f95947,0.034011855000244395,"{'width': 994, 'height': 558}","[{'x': 567.0, 'y': 279.0, 'width': 812.0, 'height': 558.0, 'confidence': 0.4345777630805969, 'class': 'paper', 'class_id': 3, 'detection_id': '5825d7f3-a619-46e4-896d-6aa3cc6b9293'}]"
+f2e30f90-0e26-4955-9c5d-fb926d1e926e,0.030981193000116036,"{'width': 994, 'height': 558}","[{'x': 563.0, 'y': 274.5, 'width': 814.0, 'height': 549.0, 'confidence': 0.4180225729942322, 'class': 'paper', 'class_id': 3, 'detection_id': '21a9ccec-4e77-4ed9-900c-c088f906fd5d'}]"
+caf02bc9-f3fd-4722-a3aa-2f1ce9fa0834,0.030895736000275065,"{'width': 994, 'height': 558}","[{'x': 563.0, 'y': 274.5, 'width': 812.0, 'height': 549.0, 'confidence': 0.41344550251960754, 'class': 'paper', 'class_id': 3, 'detection_id': 'c1081f13-5dad-4efe-80ad-4862e6650889'}]"
+308030bb-14e9-48bc-9eaa-52eed0d28b0b,0.06519040199964365,"{'width': 994, 'height': 558}",[]
+6389916b-d931-49e9-ab30-6a241abb741e,0.04331886999989365,"{'width': 994, 'height': 558}",[]
+9e513b08-d4bd-476e-9463-bf415066b2f1,0.038838069999656,"{'width': 994, 'height': 558}",[]
+11182152-9142-4dd2-b71d-c58f1847da4d,0.0553690199999437,"{'width': 994, 'height': 558}",[]
+bec1cc5a-b764-4e84-9ef2-7b6e186c6bec,0.04014516699999149,"{'width': 994, 'height': 558}",[]
+400c14d5-cbfc-4e71-9f97-44ab5ff49656,0.0321649260004051,"{'width': 994, 'height': 558}",[]
+9add8655-b604-42e7-aadd-a8afa17ac21c,0.033097124000050826,"{'width': 994, 'height': 558}",[]
+f3fa9abd-fa64-4694-968e-2a30352bdf87,0.03600712099978409,"{'width': 994, 'height': 558}","[{'x': 497.0, 'y': 277.5, 'width': 994.0, 'height': 555.0, 'confidence': 0.6851783990859985, 'class': 'paper', 'class_id': 3, 'detection_id': 'f835606f-b4be-4957-8c07-4a27d5bf273d'}]"
+c9f2eb13-5f58-40d6-97a9-c06d72dda656,0.03201814400017611,"{'width': 994, 'height': 558}","[{'x': 497.0, 'y': 279.0, 'width': 994.0, 'height': 558.0, 'confidence': 0.6022886037826538, 'class': 'paper', 'class_id': 3, 'detection_id': '972af110-3ddb-4cc5-b66d-a84ad6caa36d'}]"
+a7f43404-afaf-4e1c-be75-3a946306a08e,0.03100228800030891,"{'width': 994, 'height': 558}","[{'x': 497.0, 'y': 279.0, 'width': 994.0, 'height': 558.0, 'confidence': 0.6167169809341431, 'class': 'paper', 'class_id': 3, 'detection_id': 'f73fd76a-e46e-4a56-93de-d8fd258fcc25'}]"
+08ec8d2e-cc01-461d-b433-1c6806f8e7a6,0.056694473000334256,"{'width': 994, 'height': 558}",[]
+e33a5931-b897-438e-9eee-3c0ef7e2f148,0.030183142999703705,"{'width': 994, 'height': 558}",[]
+8dc3a748-d8b5-4bbd-ac2b-8fd70cce920b,0.031679011000051105,"{'width': 994, 'height': 558}",[]
+bc87094b-1ed8-476e-ba7f-4fe354dcc796,0.04625828799998999,"{'width': 994, 'height': 558}",[]
+dac3f149-833c-44c3-9e19-40b6c7eae700,0.04029218100004073,"{'width': 994, 'height': 558}",[]
+05fd3605-f7ec-4165-b5a8-d722c953325d,0.03716142799999034,"{'width': 994, 'height': 558}",[]
+aca39406-e4cf-448d-b0d2-1f73ecbca13f,0.030265359999930297,"{'width': 994, 'height': 558}",[]
+1acad1af-1bae-4f3d-9309-a157d7a1569a,0.04833576000009998,"{'width': 994, 'height': 558}",[]
+8341df66-b5e6-4d19-8a80-6755abafdeaa,0.044252192999920226,"{'width': 994, 'height': 558}",[]
+bf54c8e6-cdd6-4e76-b9b3-f1f79b8574ea,0.034170045000109894,"{'width': 994, 'height': 558}",[]
+84dfd48a-1e6c-4069-a6a9-068ec89552ab,0.03141178399982891,"{'width': 994, 'height': 558}",[]
+299941f8-3ea2-4f51-a881-0ecace385c11,0.030551181999726396,"{'width': 994, 'height': 558}",[]
+e923bfc2-a22a-4672-a236-52522df8f5a2,0.062434665999717254,"{'width': 994, 'height': 558}",[]
+b9ae0372-eba3-4ed6-85f3-12e685330d95,0.034999038000023575,"{'width': 994, 'height': 558}",[]
+d4eb9109-b024-4567-88c8-40ff671ff1c3,0.03256567399967025,"{'width': 994, 'height': 558}",[]
+7eaf4eb4-b210-497f-a65f-4d2b391436f2,0.05970488999992085,"{'width': 994, 'height': 558}",[]
+465177fc-d7b4-4eeb-90ba-3fac5d4235e8,0.030241853000006813,"{'width': 994, 'height': 558}",[]
+64e50e0c-6aca-4638-b764-7fda57bc35fa,0.03352626500009137,"{'width': 994, 'height': 558}",[]
+a55d0148-34bd-4111-8a3b-e28149c04d3d,0.03162345300006564,"{'width': 994, 'height': 558}",[]
+5b11b8e2-58b0-458a-9578-519b07869659,0.07565753100016082,"{'width': 994, 'height': 558}",[]
+fb529a33-2db0-4141-a3df-4d268c1ff890,0.04201132699995469,"{'width': 994, 'height': 558}",[]
+f03ba508-aa44-4eb1-be0d-49fe0def9335,0.06079535900062183,"{'width': 994, 'height': 558}",[]
+870f787b-5069-452e-8981-83935dc65298,0.031750135000038426,"{'width': 994, 'height': 558}",[]
+6813533a-0f1f-4fcb-9464-3694d82c270a,0.0334885080001186,"{'width': 994, 'height': 558}",[]
+95bc8935-49c4-4adf-abd0-bc8ed3c0eb34,0.03172021099999256,"{'width': 994, 'height': 558}",[]
+2c069850-c3ae-4c35-9416-84499950f516,0.03159180100010417,"{'width': 994, 'height': 558}",[]
+7f03e9f1-99bc-4abe-8af2-6abdc276547e,0.11701697900002728,"{'width': 994, 'height': 558}",[]
+ce636252-cc17-4e90-af25-265897580afa,0.11921173800010365,"{'width': 994, 'height': 558}",[]
+b1aae42c-8775-47ea-8703-d03589e764e7,0.04060460499999863,"{'width': 994, 'height': 558}",[]
+85e336de-032f-42dd-a64b-49bf5a60e1d5,0.03398881299972345,"{'width': 994, 'height': 558}",[]
+6c4fd812-1c24-4232-915c-8f9d08ef9985,0.02897584599986658,"{'width': 994, 'height': 558}",[]
+8848a79a-2788-4598-92e5-6355ebdcdcaf,0.03971274299965444,"{'width': 994, 'height': 558}",[]
+7c829da3-e0dc-48c8-9f46-ac60f8092489,0.037929549000182305,"{'width': 994, 'height': 558}",[]
+34c266de-4b18-4935-8d10-6e55986ad311,0.03504426500012414,"{'width': 994, 'height': 558}",[]
+5d49bd95-b2b9-43cc-beef-d8d2fc172a0e,0.04006935600000361,"{'width': 994, 'height': 558}","[{'x': 510.5, 'y': 279.0, 'width': 915.0, 'height': 558.0, 'confidence': 0.40853986144065857, 'class': 'paper', 'class_id': 3, 'detection_id': '1afc257f-e810-4d0d-a26e-7f55af68c9e7'}]"
+e901483b-81b0-4fc4-b243-4471d9c8e38c,0.048003593000430556,"{'width': 994, 'height': 558}","[{'x': 509.5, 'y': 279.0, 'width': 915.0, 'height': 558.0, 'confidence': 0.4083200693130493, 'class': 'paper', 'class_id': 3, 'detection_id': '6bd6dc72-4c37-461b-a5bc-af878d6f3086'}]"
+3a354648-0ff3-41ce-a639-9b708f4f6a82,0.03309052399981738,"{'width': 994, 'height': 558}",[]
+6481a344-3e98-4e68-bc1b-5cf81a3012bf,0.03800471800013838,"{'width': 994, 'height': 558}",[]
+4a3ab6b2-7773-47c0-8980-2f75c15148f1,0.0310519069998918,"{'width': 994, 'height': 558}",[]
+ba07d8ee-3198-45c8-a2df-73728bb0ad0f,0.031459071000426775,"{'width': 994, 'height': 558}","[{'x': 497.5, 'y': 276.5, 'width': 923.0, 'height': 545.0, 'confidence': 0.40210381150245667, 'class': 'paper', 'class_id': 3, 'detection_id': '2c599186-443d-4779-96b9-fa96e7353f01'}]"
+0c5af3ca-0b15-450c-89c6-77ed67a05f61,0.06676629699995829,"{'width': 994, 'height': 558}",[]
+91da62b7-77a7-40e6-9d16-7ce77a717267,0.05111281099993903,"{'width': 994, 'height': 558}","[{'x': 494.5, 'y': 279.0, 'width': 983.0, 'height': 558.0, 'confidence': 0.5915551781654358, 'class': 'paper', 'class_id': 3, 'detection_id': 'cc53ca14-407c-4ac5-918c-99b7a69594e0'}]"
+8bac515f-0e81-4666-87b3-d70b96539d68,0.030909468000118068,"{'width': 994, 'height': 558}","[{'x': 494.5, 'y': 279.0, 'width': 979.0, 'height': 558.0, 'confidence': 0.595550000667572, 'class': 'paper', 'class_id': 3, 'detection_id': '9fc35f5f-f703-4dd1-a42e-ec4459f2189b'}]"
+d6bc042d-07d9-4d3e-be6f-7c2a020e757c,0.03955769499998496,"{'width': 994, 'height': 558}","[{'x': 495.0, 'y': 279.0, 'width': 986.0, 'height': 558.0, 'confidence': 0.5306582450866699, 'class': 'paper', 'class_id': 3, 'detection_id': 'ae4865b6-4929-4464-858c-f0502987ae2c'}]"
+d4d75f06-f8c5-4fbe-a267-bb2de6e7785d,0.030934465999962413,"{'width': 994, 'height': 558}","[{'x': 494.5, 'y': 279.0, 'width': 979.0, 'height': 558.0, 'confidence': 0.5864711999893188, 'class': 'paper', 'class_id': 3, 'detection_id': '268f79e2-ab93-4244-996d-b81e7537f738'}]"
+f87798fe-74e4-42c3-be5e-ca1afd8949da,0.03346703100010018,"{'width': 994, 'height': 558}","[{'x': 503.5, 'y': 277.5, 'width': 917.0, 'height': 541.0, 'confidence': 0.46325919032096863, 'class': 'paper', 'class_id': 3, 'detection_id': '0757a3ae-55dc-43c7-acc0-e0f1392ed587'}]"
+087f7e51-b711-4f9b-a3b7-0e27ffefac50,0.032740702999944915,"{'width': 994, 'height': 558}","[{'x': 504.5, 'y': 280.0, 'width': 943.0, 'height': 552.0, 'confidence': 0.46646153926849365, 'class': 'paper', 'class_id': 3, 'detection_id': 'a487acbd-a169-49be-a71c-bba4588c2e4d'}]"
+97b5cfd6-6e3e-4b43-a91c-2b69b5713f22,0.061455329999262176,"{'width': 994, 'height': 558}","[{'x': 503.5, 'y': 280.0, 'width': 949.0, 'height': 550.0, 'confidence': 0.46857914328575134, 'class': 'paper', 'class_id': 3, 'detection_id': 'cba15035-e4d3-4847-b3b7-53dff533f3be'}]"
+6dbc83da-0eb8-4012-877f-12893ba91422,0.031050526999933936,"{'width': 994, 'height': 558}","[{'x': 503.5, 'y': 280.0, 'width': 949.0, 'height': 550.0, 'confidence': 0.45986807346343994, 'class': 'paper', 'class_id': 3, 'detection_id': 'a79029cc-43c5-4c57-8866-cd09149b30d9'}]"
+a23a229f-8ed8-4aaf-b668-5eb7bd30a111,0.03258351199997378,"{'width': 994, 'height': 558}","[{'x': 504.0, 'y': 280.0, 'width': 948.0, 'height': 550.0, 'confidence': 0.47622886300086975, 'class': 'paper', 'class_id': 3, 'detection_id': 'd6200ac2-54a8-4868-b2a2-2b727eebc3ab'}]"
+83004d0d-ddcb-484b-a3cf-ab4c71c879f1,0.030660623000585474,"{'width': 994, 'height': 558}","[{'x': 499.5, 'y': 279.0, 'width': 989.0, 'height': 558.0, 'confidence': 0.5819370746612549, 'class': 'paper', 'class_id': 3, 'detection_id': 'f29ca277-373f-4260-ace2-91280ca34031'}]"
+b7db2185-82b9-4438-8646-d594ba233e3f,0.040448449999985314,"{'width': 994, 'height': 558}","[{'x': 500.0, 'y': 279.0, 'width': 988.0, 'height': 558.0, 'confidence': 0.5941420793533325, 'class': 'paper', 'class_id': 3, 'detection_id': 'ba6f0412-014a-4cf1-adb8-6a74e8d8dc03'}]"
+c943bf42-cfc4-44e5-9913-afbee2a806af,0.03456004999998186,"{'width': 994, 'height': 558}",[]
+e4943fde-3691-42a0-8447-12567e7bacc5,0.03011746399988624,"{'width': 994, 'height': 558}",[]
+51bb1b5d-f234-488d-b99f-70242f61e02c,0.03190477900011501,"{'width': 994, 'height': 558}",[]
+7354a821-ca80-494e-8508-f07174d26a3c,0.04119821600011164,"{'width': 994, 'height': 558}",[]
+3fd12094-6562-480f-b715-623fd01cc88f,0.030365351000000373,"{'width': 994, 'height': 558}",[]
+37e10c7c-ade3-4e27-b2a2-253080190a7b,0.030600220000451372,"{'width': 994, 'height': 558}",[]
+f5608c3f-9132-4901-a31d-6285080b64ae,0.03485505799994826,"{'width': 994, 'height': 558}","[{'x': 497.0, 'y': 279.0, 'width': 994.0, 'height': 558.0, 'confidence': 0.4718655049800873, 'class': 'paper', 'class_id': 3, 'detection_id': 'd5e1e527-79d0-4c2b-87c0-f28fc486aad8'}]"
+7ce8adfb-5070-4963-b0e3-cef57b3d42ff,0.031291522999936205,"{'width': 994, 'height': 558}","[{'x': 497.0, 'y': 279.0, 'width': 994.0, 'height': 558.0, 'confidence': 0.4790298044681549, 'class': 'paper', 'class_id': 3, 'detection_id': '00aa91bd-eea6-400a-8c8f-a6de3c76879b'}]"
+650e8688-9a64-4590-b722-069950d21ad0,0.03360018500006845,"{'width': 994, 'height': 558}","[{'x': 497.0, 'y': 279.0, 'width': 994.0, 'height': 558.0, 'confidence': 0.5474090576171875, 'class': 'paper', 'class_id': 3, 'detection_id': 'a9b51208-e18d-4ad2-a91b-1bc80a0a30c7'}]"
+ac93965f-eb78-4af6-8037-7d4705934a85,0.03514199899996129,"{'width': 994, 'height': 558}","[{'x': 497.0, 'y': 279.0, 'width': 994.0, 'height': 558.0, 'confidence': 0.5233631730079651, 'class': 'paper', 'class_id': 3, 'detection_id': '3f971938-94b2-4c22-b466-7f8a69dabe5e'}]"
+b23b918f-1a27-4c98-96bf-c604f4771b08,0.032389364999971804,"{'width': 994, 'height': 558}",[]
+feae53b4-258c-4ad6-9807-76fab1eafa90,0.03562626799998725,"{'width': 994, 'height': 558}",[]
+0f8f35b3-8033-47ad-9977-a51339b203d1,0.03895479900006649,"{'width': 994, 'height': 558}",[]
+0e03c2cf-02c6-4537-9db2-9e479067356c,0.0600247259999378,"{'width': 994, 'height': 558}",[]
+577df7ee-c365-480c-b08a-590a798860e2,0.03206577500009189,"{'width': 994, 'height': 558}",[]
+c1a01f3d-906c-46ff-a8cd-961af13de6e9,0.03201251099994806,"{'width': 994, 'height': 558}",[]
+f91208bb-0d42-440d-af2b-51e0dd328019,0.03045478300009563,"{'width': 994, 'height': 558}",[]
+257b8fce-51f1-438b-aecf-c45fbc317500,0.03131070600011299,"{'width': 994, 'height': 558}",[]
+b2135e7f-37cc-47de-bfa3-0cf50a05fcef,0.03600255799938168,"{'width': 994, 'height': 558}",[]
+fc7b8b65-9da1-4fb1-9196-483cba42b1b4,0.035014062999835005,"{'width': 994, 'height': 558}",[]
+b594f429-d284-4bff-a5f2-1b732c9acfb1,0.03599359399959212,"{'width': 994, 'height': 558}",[]
+cf4e7d10-1821-4a8d-9b6a-a52fb25fee74,0.032427269000436354,"{'width': 994, 'height': 558}",[]
+1e423dbf-38ad-4a81-8ab5-98bc66fab0b8,0.03186204700000417,"{'width': 994, 'height': 558}",[]
+48b6c864-c55b-452e-bd6c-a2cf9c8193f5,0.0317268870001044,"{'width': 994, 'height': 558}",[]
+262a59e2-1f7d-41da-a342-1b477d6b8511,0.03311541100015347,"{'width': 994, 'height': 558}",[]
+9b4b656b-9187-41a8-9c22-91031ae5d3ea,0.03428649800002859,"{'width': 994, 'height': 558}",[]
+7f26d78c-344a-40b3-b317-bfd57ddd969a,0.03440603899980488,"{'width': 994, 'height': 558}",[]
+6361349e-ef56-49c2-bd38-1f8e37090d1b,0.0385624190003,"{'width': 994, 'height': 558}",[]
+9fef17a2-02b2-436e-a3fa-74035b6a6238,0.030975089000094158,"{'width': 994, 'height': 558}",[]
+09ab6daf-0432-4cd2-8ec1-cef87f388561,0.031069910000042,"{'width': 994, 'height': 558}",[]
+c98c1c7d-33d6-4d56-86fc-6b18401c4c51,0.03523995199975616,"{'width': 994, 'height': 558}",[]
+9d50fe82-828f-40f3-9733-65ab220b265a,0.03773465100039175,"{'width': 994, 'height': 558}",[]
+177b6fd7-313b-4d4d-9b9d-74c5725e5e44,0.030372164999789675,"{'width': 994, 'height': 558}",[]
+1634f1c1-30fb-49d9-a967-ffddc26e85fd,0.03295273799994902,"{'width': 994, 'height': 558}",[]
+63586900-048d-4731-970d-d1bc4428ea62,0.031889421000414586,"{'width': 994, 'height': 558}",[]
+ef4f6bd4-2f54-48cb-961f-782bce070477,0.03337538499999937,"{'width': 994, 'height': 558}",[]
+d530c1b3-1345-49c4-9be3-6a14d5cd2931,0.03095924700028263,"{'width': 994, 'height': 558}",[]
+67e35652-aad6-4865-ae24-692a08392949,0.05936774199926731,"{'width': 994, 'height': 558}",[]
+7e839901-2630-461a-aeb4-df8625a7dd5f,0.038627310000265425,"{'width': 994, 'height': 558}",[]
+29f207d9-9d02-4443-8914-9277c4d3f8d2,0.03049809699950856,"{'width': 994, 'height': 558}",[]
+eef0cba5-584b-4f17-8b4c-b067e014ff61,0.03498180299993692,"{'width': 994, 'height': 558}",[]
+06bbe649-ab53-4e36-80f1-44ea777da68a,0.030474995000076888,"{'width': 994, 'height': 558}",[]
+2f3438f8-3916-4250-a780-ab63dc79fc17,0.06681594400015456,"{'width': 994, 'height': 558}",[]
+646442bf-2a38-4694-815f-39695cdc3800,0.033801144999415556,"{'width': 994, 'height': 558}",[]
+c6dbaff4-e81f-4cf6-9d6b-e6b56f79ad05,0.030499714000143285,"{'width': 994, 'height': 558}",[]
+eeb2a2fd-36b7-4692-ab80-092cd99710f7,0.03509158799988654,"{'width': 994, 'height': 558}",[]
+02422b86-51aa-4407-b4b2-5e9eb7072f21,0.030247613999563328,"{'width': 994, 'height': 558}",[]
+36991c4a-3dbb-4209-ae67-34a79b37f08e,0.03273495200028265,"{'width': 994, 'height': 558}",[]
+957abc7e-a350-4888-b4f0-5510f3e3c5f7,0.040360503999181674,"{'width': 994, 'height': 558}",[]
+3090d827-076c-43a7-96cf-5fd24204075a,0.04597019700031524,"{'width': 994, 'height': 558}",[]
+8887bd67-4022-457a-98f1-6fb2a184c0a1,0.03426179400048568,"{'width': 994, 'height': 558}",[]
+9955578e-13f1-4591-9000-e404663740c1,0.03134463899914408,"{'width': 994, 'height': 558}",[]
+0187b83b-15e0-4f0e-81e0-9eef74924c11,0.030636148999292345,"{'width': 994, 'height': 558}",[]
+87dfb111-cf6a-4cca-9700-46dfcdb4fbeb,0.030923563000214926,"{'width': 994, 'height': 558}",[]
+18964a61-5269-42df-bebc-c00ac5b14ce7,0.0471871639992969,"{'width': 994, 'height': 558}",[]
+580f66ec-d4e8-4eeb-b181-48032b1d1a9d,0.030524928999511758,"{'width': 994, 'height': 558}",[]
+d12038da-044f-45e8-9c0f-d32532912ff0,0.03263699499984796,"{'width': 994, 'height': 558}",[]
+5bee67f8-15f4-4d33-b56b-c2e2ae3b9320,0.03539143600028183,"{'width': 994, 'height': 558}",[]
+45ab9221-e6d1-4f4d-94c9-625483238ef4,0.03481206200012821,"{'width': 994, 'height': 558}",[]
+607c1c21-ab92-45cd-8518-35d1c7b97978,0.03474981499948626,"{'width': 994, 'height': 558}",[]
+d8bed840-0ba5-45fb-9eed-985afe37a9b7,0.03189080899937835,"{'width': 994, 'height': 558}",[]
+2bfcf770-78b7-4648-95b8-b32c9b69c741,0.034093751999535016,"{'width': 994, 'height': 558}",[]
+e1d40d1d-6d71-420c-9196-7de11d2317ff,0.0330104399999982,"{'width': 994, 'height': 558}",[]
+fd15f8c4-a3d1-4aed-8fe3-9f53607ae986,0.03443781999976636,"{'width': 994, 'height': 558}",[]
+68ba0ff0-8c1a-4821-b93f-49a9cfbffc0a,0.03611654799988173,"{'width': 994, 'height': 558}",[]
+47e03947-a884-4dac-85cd-222d89ce87be,0.030692844999975932,"{'width': 994, 'height': 558}",[]
+7eec7092-5488-445b-b79b-cbacde17d0f0,0.03345807999994577,"{'width': 994, 'height': 558}",[]
+4e9b53fe-d4d9-460a-b092-945da5e4d096,0.03555342900017422,"{'width': 994, 'height': 558}",[]
+013f79e3-a8bf-4710-8dbd-563b57e19e76,0.03456823800024722,"{'width': 994, 'height': 558}",[]
+267c8795-d25e-4deb-b4cd-195f37a418b7,0.03332282000064879,"{'width': 994, 'height': 558}",[]
+472a4053-ca35-4842-a522-8136956d67e0,0.030432227999881434,"{'width': 994, 'height': 558}",[]
+bd401acb-856d-4282-9e31-b8fae4e7c649,0.038942746999964584,"{'width': 994, 'height': 558}","[{'x': 497.0, 'y': 284.0, 'width': 994.0, 'height': 548.0, 'confidence': 0.4290961027145386, 'class': 'paper', 'class_id': 3, 'detection_id': '346ea209-f618-4051-8203-3ff40738415b'}]"
+615d25ae-67b5-48fa-ad09-954ead3833ae,0.031535872999938874,"{'width': 994, 'height': 558}","[{'x': 501.5, 'y': 279.0, 'width': 955.0, 'height': 558.0, 'confidence': 0.43528997898101807, 'class': 'paper', 'class_id': 3, 'detection_id': 'eb426627-e86a-4b76-9b2b-44a560afcf3c'}]"
+2ab36138-aee9-4f2a-9804-ac0ac1cd9a82,0.03083313399997678,"{'width': 994, 'height': 558}","[{'x': 497.0, 'y': 284.0, 'width': 994.0, 'height': 548.0, 'confidence': 0.4225565791130066, 'class': 'paper', 'class_id': 3, 'detection_id': 'aa5a2879-c805-4fea-8ab3-dd08ee339c6a'}]"
+89b2e9b6-4b73-4c9e-bc48-7b99da72c50d,0.03271384999993643,"{'width': 994, 'height': 558}","[{'x': 501.5, 'y': 279.0, 'width': 955.0, 'height': 558.0, 'confidence': 0.4499473571777344, 'class': 'paper', 'class_id': 3, 'detection_id': '3be85e59-54a9-4ff1-8504-28a38ce7b29d'}]"
+c4372bfc-bf76-4361-ad31-c206cf9a5a88,0.03220525100005034,"{'width': 994, 'height': 558}","[{'x': 501.5, 'y': 279.0, 'width': 957.0, 'height': 558.0, 'confidence': 0.4429807960987091, 'class': 'paper', 'class_id': 3, 'detection_id': '69af2038-97b7-4673-9e3d-b1904cf0fbb8'}]"
+823f453c-79eb-47aa-8a34-7e58ef3a6f63,0.03078174899997066,"{'width': 994, 'height': 558}","[{'x': 501.5, 'y': 279.0, 'width': 941.0, 'height': 558.0, 'confidence': 0.49374672770500183, 'class': 'paper', 'class_id': 3, 'detection_id': '67aebd56-2760-4b79-b2fe-0d3864f04553'}]"
+28078b32-8562-49be-9840-1da1999fccef,0.03263952299994344,"{'width': 994, 'height': 558}","[{'x': 502.5, 'y': 279.0, 'width': 941.0, 'height': 558.0, 'confidence': 0.48483461141586304, 'class': 'paper', 'class_id': 3, 'detection_id': '590de803-0183-41fb-a6f5-d35493a4dce9'}]"
+c9e28e19-98e4-4730-b1ea-68815cdb5803,0.0345156109999607,"{'width': 994, 'height': 558}","[{'x': 503.0, 'y': 277.5, 'width': 934.0, 'height': 555.0, 'confidence': 0.507521390914917, 'class': 'paper', 'class_id': 3, 'detection_id': '7fef2e79-3276-4703-a51a-34b995ebc374'}]"
+8035197f-3e9b-4647-9282-3b3cae603d19,0.036752701000068555,"{'width': 994, 'height': 558}","[{'x': 507.5, 'y': 279.0, 'width': 943.0, 'height': 558.0, 'confidence': 0.44970932602882385, 'class': 'paper', 'class_id': 3, 'detection_id': '961cbafc-2c32-4df8-903f-8c0801e297a2'}]"
+5986df54-4fc2-4853-a896-302d236aceea,0.033779683000148,"{'width': 994, 'height': 558}","[{'x': 508.0, 'y': 279.0, 'width': 944.0, 'height': 558.0, 'confidence': 0.4601394832134247, 'class': 'paper', 'class_id': 3, 'detection_id': '46fc368d-0a5f-4be7-bea9-f39e453ae2a9'}]"
+b0b6217a-ed0c-405a-b117-97cdac5ffd00,0.038270315000090704,"{'width': 994, 'height': 558}","[{'x': 516.0, 'y': 279.0, 'width': 944.0, 'height': 558.0, 'confidence': 0.4941292703151703, 'class': 'paper', 'class_id': 3, 'detection_id': '71c43f4f-741c-4f36-9fb5-286bb4c8d127'}]"
+169bd527-86a4-4d67-a9cc-3ff0ed24cb57,0.03141159400001925,"{'width': 994, 'height': 558}","[{'x': 515.5, 'y': 279.0, 'width': 943.0, 'height': 558.0, 'confidence': 0.5060999989509583, 'class': 'paper', 'class_id': 3, 'detection_id': 'e967368e-0c1c-4958-b2e3-411ad7fe201a'}]"
+85fd7141-70bc-47fa-9c9a-7aeb1bf8f91f,0.03271318199995221,"{'width': 994, 'height': 558}","[{'x': 519.0, 'y': 279.0, 'width': 950.0, 'height': 558.0, 'confidence': 0.482120543718338, 'class': 'paper', 'class_id': 3, 'detection_id': '614ce0a0-c01f-4ff9-b998-7f726d92bb08'}]"
+8739d3d2-f8f7-4a7d-a26f-dc585bf25229,0.03428661799989641,"{'width': 994, 'height': 558}","[{'x': 519.0, 'y': 279.0, 'width': 950.0, 'height': 558.0, 'confidence': 0.48063796758651733, 'class': 'paper', 'class_id': 3, 'detection_id': 'b25c4845-784c-44d8-ad8b-e90bb437d471'}]"
+9665d788-1ca2-4471-83d7-42914f8d82b7,0.03317402400011815,"{'width': 994, 'height': 558}","[{'x': 518.5, 'y': 289.5, 'width': 951.0, 'height': 537.0, 'confidence': 0.40460583567619324, 'class': 'paper', 'class_id': 3, 'detection_id': 'fd66905d-3fd7-4e17-a903-377fcfc31d37'}]"
+9f321aa5-eee9-4493-9b7a-ed958f30025c,0.04287065600055939,"{'width': 994, 'height': 558}",[]
+ca9c674d-1d68-426c-ba74-8c38b22c4043,0.032754666000073485,"{'width': 994, 'height': 558}","[{'x': 520.0, 'y': 279.0, 'width': 948.0, 'height': 558.0, 'confidence': 0.556445837020874, 'class': 'paper', 'class_id': 3, 'detection_id': '45e8eff3-cfe0-4c62-94f4-8b9cc806dcb0'}]"
+3d1e078d-e356-4f58-b8f9-caa8a2d23b5b,0.03620979800052737,"{'width': 994, 'height': 558}","[{'x': 520.0, 'y': 279.0, 'width': 948.0, 'height': 558.0, 'confidence': 0.5511008501052856, 'class': 'paper', 'class_id': 3, 'detection_id': '0bc95cf4-1e91-4139-926a-3ba114dbdcb3'}]"
+1771b827-71af-4152-86e0-37ea9c39aa08,0.045155009999689355,"{'width': 994, 'height': 558}","[{'x': 520.0, 'y': 279.0, 'width': 948.0, 'height': 558.0, 'confidence': 0.5611236095428467, 'class': 'paper', 'class_id': 3, 'detection_id': 'f70820d8-48eb-4712-a8b0-c8dff552ebee'}]"
+e1b9e183-305a-404a-81b0-df25ef26b965,0.0349209920004796,"{'width': 994, 'height': 558}","[{'x': 514.5, 'y': 276.5, 'width': 959.0, 'height': 553.0, 'confidence': 0.7021366357803345, 'class': 'paper', 'class_id': 3, 'detection_id': '7dfe3df0-31e4-4aa5-a113-65c39221a6c1'}]"
+63c3c1fd-1f08-405f-a614-cfae49d2bbb8,0.03086167600031331,"{'width': 994, 'height': 558}","[{'x': 515.0, 'y': 272.5, 'width': 958.0, 'height': 545.0, 'confidence': 0.8020293116569519, 'class': 'paper', 'class_id': 3, 'detection_id': 'bc9f58e8-07a7-4d12-b662-56d2851adaca'}]"
+e3c9c000-01a3-437c-b0e9-5db08ad98d79,0.061670787000366545,"{'width': 994, 'height': 558}","[{'x': 515.0, 'y': 272.5, 'width': 958.0, 'height': 545.0, 'confidence': 0.8147109746932983, 'class': 'paper', 'class_id': 3, 'detection_id': 'bd6d705a-81db-48f1-89b0-5d298c4d4e97'}]"
+b6f90cd2-a540-495c-a5fb-f30f0accb909,0.04769125699999677,"{'width': 994, 'height': 558}","[{'x': 516.0, 'y': 274.0, 'width': 956.0, 'height': 548.0, 'confidence': 0.7759720087051392, 'class': 'paper', 'class_id': 3, 'detection_id': '1285e62f-eaea-4324-9ae7-b7ac6aeb9231'}]"
+bd2cc48a-1114-4497-b802-79bbdd89ed35,0.03271610500019051,"{'width': 994, 'height': 558}","[{'x': 515.5, 'y': 274.0, 'width': 957.0, 'height': 548.0, 'confidence': 0.7753329277038574, 'class': 'paper', 'class_id': 3, 'detection_id': 'd750b8b8-7fbc-48ec-b3d9-183c499e3d01'}]"
+d0be4c2b-e2ad-42c5-a282-b456f39c3c70,0.11901967200014951,"{'width': 994, 'height': 558}","[{'x': 513.5, 'y': 274.5, 'width': 961.0, 'height': 549.0, 'confidence': 0.7636077404022217, 'class': 'paper', 'class_id': 3, 'detection_id': 'ba1fb04a-3999-4ef9-bf27-0f40a3eb38cb'}]"
+0e27e869-07de-40e5-8ab3-f8c5b0bc52e3,0.09497884699999304,"{'width': 994, 'height': 558}","[{'x': 513.5, 'y': 274.5, 'width': 961.0, 'height': 549.0, 'confidence': 0.7626039385795593, 'class': 'paper', 'class_id': 3, 'detection_id': 'ff97b936-6b6d-4443-8032-3505ea32b4de'}]"
+025a9673-24bf-4035-bae8-8a10ac0490e4,0.055408577999969566,"{'width': 994, 'height': 558}","[{'x': 513.0, 'y': 274.5, 'width': 962.0, 'height': 549.0, 'confidence': 0.7673336267471313, 'class': 'paper', 'class_id': 3, 'detection_id': '9b1bee19-5459-405e-97c2-f91cfbd44dd8'}]"
+950442b2-71af-414a-81c7-374adf65665f,0.09007413399990583,"{'width': 994, 'height': 558}","[{'x': 513.0, 'y': 274.5, 'width': 962.0, 'height': 549.0, 'confidence': 0.7681508660316467, 'class': 'paper', 'class_id': 3, 'detection_id': '1e4c6d3e-62d1-462a-92a9-42882e4460c0'}]"
+2d4deb4d-61b0-40e4-8679-9fcab170c168,0.03767568900002516,"{'width': 994, 'height': 558}","[{'x': 513.5, 'y': 275.5, 'width': 961.0, 'height': 551.0, 'confidence': 0.7307671308517456, 'class': 'paper', 'class_id': 3, 'detection_id': '9deee834-3369-4a33-b53f-e0a109f5d22d'}]"
+da560c1e-310a-4064-9bba-1de7d2644c9a,0.06587991400010651,"{'width': 994, 'height': 558}","[{'x': 513.0, 'y': 275.5, 'width': 962.0, 'height': 551.0, 'confidence': 0.7276702523231506, 'class': 'paper', 'class_id': 3, 'detection_id': '9abfc977-a735-4322-846a-cbce3fad0220'}]"
+f2609cc3-1dbe-4c3c-9d94-786e1e10ec59,0.03168019200006711,"{'width': 994, 'height': 558}","[{'x': 512.5, 'y': 275.0, 'width': 963.0, 'height': 550.0, 'confidence': 0.7042499780654907, 'class': 'paper', 'class_id': 3, 'detection_id': 'e285cccd-72ee-4d7b-bdb9-ebb1a61ecb91'}]"
+d54d738b-def6-43cf-97d0-04c082869038,0.059619204000000536,"{'width': 994, 'height': 558}","[{'x': 512.5, 'y': 275.0, 'width': 963.0, 'height': 550.0, 'confidence': 0.7117128968238831, 'class': 'paper', 'class_id': 3, 'detection_id': '5de4b168-fcc6-440a-b4ee-f2052387fdd1'}]"
+6cad71f1-9415-415b-9cce-64dd84510702,0.05290525999998863,"{'width': 994, 'height': 558}","[{'x': 493.5, 'y': 279.0, 'width': 987.0, 'height': 558.0, 'confidence': 0.625597357749939, 'class': 'paper', 'class_id': 3, 'detection_id': 'ab4bcb34-cb0e-4039-91b6-c34c3aea5fe0'}]"
+383aac59-7687-4e68-aaef-4ea841bf04f7,0.04369647799990162,"{'width': 994, 'height': 558}","[{'x': 493.0, 'y': 279.0, 'width': 986.0, 'height': 558.0, 'confidence': 0.6202302575111389, 'class': 'paper', 'class_id': 3, 'detection_id': '6baa16c0-bf07-4a1e-9683-6d5357eb09e0'}]"
+abf5ce1c-85de-4bf5-bf45-611799d0a411,0.031289162000120996,"{'width': 994, 'height': 558}","[{'x': 500.5, 'y': 279.0, 'width': 987.0, 'height': 558.0, 'confidence': 0.49978107213974, 'class': 'paper', 'class_id': 3, 'detection_id': '3a5f52e8-8704-4622-bccc-add54de18ae5'}]"
+56190aa9-ca20-4cc8-83fa-e51c95aa32eb,0.03685982599995441,"{'width': 994, 'height': 558}","[{'x': 499.5, 'y': 279.0, 'width': 989.0, 'height': 558.0, 'confidence': 0.47065281867980957, 'class': 'paper', 'class_id': 3, 'detection_id': 'a8a7af88-5889-4645-8c4f-47a61e65d3c5'}]"
+28b6debc-3cd0-4c7c-909e-c16129ca42fa,0.03591668799981562,"{'width': 994, 'height': 558}",[]
+d2cf5c82-459f-47fe-8408-11d6e6472761,0.03336674399997719,"{'width': 994, 'height': 558}",[]
+eddac733-0233-49f4-b9c5-6187aa9cb1a8,0.032081524999739486,"{'width': 994, 'height': 558}","[{'x': 504.0, 'y': 344.5, 'width': 962.0, 'height': 405.0, 'confidence': 0.40529578924179077, 'class': 'paper', 'class_id': 3, 'detection_id': 'f18c9a19-a9f8-4e0e-8a09-b63a84414042'}]"
+9c41738e-0ce5-495f-bfd1-84f61e6487df,0.03379889100051514,"{'width': 994, 'height': 558}",[]
+fe137612-dc97-4e72-9d46-3f7c27999e6b,0.034040024999740126,"{'width': 994, 'height': 558}",[]
+548b24e1-0056-4d5b-9b41-e8f684bca1cc,0.030823195000266423,"{'width': 994, 'height': 558}",[]
+839f1d8d-9b9e-4ff8-8cd1-96fc6bb3a0b0,0.039099302999602514,"{'width': 994, 'height': 558}",[]
+2a76b497-2581-4f3a-bedf-79a7e27b3d6b,0.0378838619999442,"{'width': 994, 'height': 558}",[]
+c7a4fa74-9ad3-4bff-b8ad-775f56b91280,0.03748322499995993,"{'width': 994, 'height': 558}",[]
+4ebf254b-7d86-4f4c-b048-62a7d52198b4,0.03742480500000056,"{'width': 994, 'height': 558}","[{'x': 502.0, 'y': 279.0, 'width': 984.0, 'height': 558.0, 'confidence': 0.7093075513839722, 'class': 'paper', 'class_id': 3, 'detection_id': 'c3017dff-87c3-472b-a1fd-d7273536920a'}]"
+f53dac6d-ef53-4aa0-b40e-23fcc027851b,0.07154588200000944,"{'width': 994, 'height': 558}","[{'x': 500.5, 'y': 279.0, 'width': 987.0, 'height': 558.0, 'confidence': 0.696892499923706, 'class': 'paper', 'class_id': 3, 'detection_id': '0983423d-986d-4a72-ac6d-8b5d51ae4b58'}]"
+5752904c-23a7-485d-8002-85da1139d117,0.03083409999999276,"{'width': 994, 'height': 558}","[{'x': 509.0, 'y': 348.5, 'width': 968.0, 'height': 397.0, 'confidence': 0.5541163682937622, 'class': 'paper', 'class_id': 3, 'detection_id': 'd4b75673-f84a-4f92-9d10-da45ff49ed32'}]"
+11f9890d-5a9f-466f-9d25-b6b522f8e6cd,0.04990028799988977,"{'width': 994, 'height': 558}","[{'x': 509.0, 'y': 348.0, 'width': 968.0, 'height': 398.0, 'confidence': 0.5337927341461182, 'class': 'paper', 'class_id': 3, 'detection_id': 'cd89ca11-254b-4f4b-b37e-98545793ac2c'}]"
+4bec582e-08db-4d71-b1ec-f8962829ea25,0.0832297249999101,"{'width': 994, 'height': 558}","[{'x': 509.0, 'y': 348.5, 'width': 968.0, 'height': 397.0, 'confidence': 0.546550989151001, 'class': 'paper', 'class_id': 3, 'detection_id': '45bcab63-c668-44f0-b0d1-3108cd402669'}]"
+d3888707-0340-4eb8-9040-be588a5c9029,0.08489932999987104,"{'width': 994, 'height': 558}","[{'x': 509.0, 'y': 348.0, 'width': 968.0, 'height': 398.0, 'confidence': 0.5197486877441406, 'class': 'paper', 'class_id': 3, 'detection_id': 'f3c904f0-8618-4eec-a188-51791d979003'}]"
+1853a963-5f9a-4a46-93e5-11c454dc4f5f,0.05940867699996488,"{'width': 994, 'height': 558}","[{'x': 509.0, 'y': 348.0, 'width': 968.0, 'height': 400.0, 'confidence': 0.52843177318573, 'class': 'paper', 'class_id': 3, 'detection_id': '4b70778c-6e53-4a05-88b2-63742298152d'}]"
+95aff474-66a4-49f0-8934-2d7928884762,0.05123580600002242,"{'width': 994, 'height': 558}","[{'x': 511.0, 'y': 347.0, 'width': 966.0, 'height': 404.0, 'confidence': 0.4201430678367615, 'class': 'paper', 'class_id': 3, 'detection_id': 'a1d3e502-fede-4c6b-8383-6b6306ca1ffa'}]"
+a9ed6756-357f-412c-b4bd-ab3d7fecacfb,0.03293029499991462,"{'width': 994, 'height': 558}","[{'x': 510.5, 'y': 346.5, 'width': 967.0, 'height': 405.0, 'confidence': 0.418038010597229, 'class': 'paper', 'class_id': 3, 'detection_id': 'bedcebaf-d48b-4b5a-a8cd-85f18115de7a'}]"
+5a0ce3a6-6f75-4261-bf88-7224a64cc967,0.04282932399996753,"{'width': 994, 'height': 558}","[{'x': 517.0, 'y': 348.0, 'width': 954.0, 'height': 396.0, 'confidence': 0.40804892778396606, 'class': 'paper', 'class_id': 3, 'detection_id': '672a15fe-8ade-49ca-82f1-8284f050d1a3'}]"
+917772b3-ab38-40b3-8edb-aeacd2080b77,0.037721654000051785,"{'width': 994, 'height': 558}","[{'x': 502.5, 'y': 279.0, 'width': 983.0, 'height': 558.0, 'confidence': 0.49712279438972473, 'class': 'paper', 'class_id': 3, 'detection_id': '846d83db-49f4-443d-ad75-0702a64b75e9'}]"
+29508c9c-7575-4cd4-920f-a9ca3c7f3b44,0.0396634470000663,"{'width': 994, 'height': 558}","[{'x': 503.0, 'y': 279.0, 'width': 982.0, 'height': 558.0, 'confidence': 0.508208692073822, 'class': 'paper', 'class_id': 3, 'detection_id': '9722c5d7-8149-4019-b3cc-f59b84e87f25'}]"
+e1bec80c-f690-452c-90ce-227c5c632fa2,0.03476713500003825,"{'width': 994, 'height': 558}","[{'x': 507.5, 'y': 279.0, 'width': 973.0, 'height': 558.0, 'confidence': 0.5138685703277588, 'class': 'paper', 'class_id': 3, 'detection_id': 'a90e0b29-0c8b-44a6-a078-f002379c1d80'}]"
+41355b99-7f10-4b6d-a9be-876f14d31292,0.08565402799990807,"{'width': 994, 'height': 558}","[{'x': 508.0, 'y': 279.0, 'width': 972.0, 'height': 558.0, 'confidence': 0.5384634137153625, 'class': 'paper', 'class_id': 3, 'detection_id': '4baaae55-3c37-450c-8df4-7b0f996709af'}]"
+f5bf0b09-fcac-47e7-bbd6-17dd0cca7971,0.04167604600024788,"{'width': 994, 'height': 558}",[]
+056c51ec-da26-4d04-b8a8-148be5555374,0.03603091800050606,"{'width': 994, 'height': 558}",[]
+9fa6881e-2872-4788-adfd-1e8c9e152863,0.04203687099925446,"{'width': 994, 'height': 558}",[]
+cd5873fa-0462-4424-9010-0d89f42ca8eb,0.049399362999793084,"{'width': 994, 'height': 558}",[]
+c7a38e44-bae4-4631-945d-e3006e74213e,0.03414058299949829,"{'width': 994, 'height': 558}","[{'x': 508.0, 'y': 278.0, 'width': 972.0, 'height': 556.0, 'confidence': 0.4736013412475586, 'class': 'paper', 'class_id': 3, 'detection_id': '246c3f9e-82b9-4cd3-bf7e-b36434174a09'}]"
+c7bdb449-c5de-42f0-a9fe-1a9ea2e23378,0.03947663100007048,"{'width': 994, 'height': 558}","[{'x': 513.5, 'y': 274.5, 'width': 961.0, 'height': 549.0, 'confidence': 0.5051000714302063, 'class': 'paper', 'class_id': 3, 'detection_id': '1552ba8e-f6f1-47ae-8840-10faf1dcf980'}]"
+c05c56b3-da7f-4c31-8a58-64b47eb2770f,0.03857980199995836,"{'width': 994, 'height': 558}",[]
+414a5dae-c137-42f8-b116-b98876f5c0ba,0.035931779000065944,"{'width': 994, 'height': 558}",[]
+fd898219-83ec-4b14-af2f-b2569dcc41c8,0.04031243800000084,"{'width': 994, 'height': 558}",[]
+17f7a5f4-8d8b-4618-b678-d5225627a91a,0.035541793999982474,"{'width': 994, 'height': 558}",[]
+7589d8e7-683e-49ea-a6ea-a6ea9e0089d7,0.07799697499990543,"{'width': 994, 'height': 558}",[]
+c2a524ac-020e-4504-8fa3-cc4be389011c,0.07784096999989742,"{'width': 994, 'height': 558}",[]
+afdd6fef-1c46-4f2e-bafe-3ea50dd278b9,0.05771394899988991,"{'width': 994, 'height': 558}",[]
+8f71bb2c-11ae-4c68-9cff-4657b77472e5,0.08464747100015302,"{'width': 994, 'height': 558}",[]
+b7aea636-a0a1-4505-bcc2-973bef21ba8b,0.15786412500006008,"{'width': 994, 'height': 558}",[]
+038c8ea1-2ece-43b9-9028-ec96a51d1872,0.1157999380000092,"{'width': 994, 'height': 558}",[]
+84d6c314-4e72-4f62-83f2-b289adb4dee1,0.04941249000012249,"{'width': 994, 'height': 558}",[]
+9db42f2e-162c-4564-96f1-81797a42e41e,0.05259237300015229,"{'width': 994, 'height': 558}",[]
+b72df29b-fac6-4f7d-8054-8f30af188574,0.10176294399980179,"{'width': 994, 'height': 558}",[]
+3369c329-52d8-4d99-9fd8-93e4eb026854,0.08080824599983316,"{'width': 994, 'height': 558}","[{'x': 404.5, 'y': 271.5, 'width': 101.0, 'height': 75.0, 'confidence': 0.7515292167663574, 'class': 'plastic', 'class_id': 4, 'detection_id': 'df106cf1-a6bc-4e16-b340-4cc8743190da'}]"
+7aeb59ce-6d25-43f8-8f52-f743162adb11,0.04651193300014711,"{'width': 994, 'height': 558}","[{'x': 405.0, 'y': 270.0, 'width': 100.0, 'height': 70.0, 'confidence': 0.5475125312805176, 'class': 'plastic', 'class_id': 4, 'detection_id': 'ecb95faf-67ff-41cb-88c3-b1022c6e222a'}]"
+7f389b33-e78c-474e-b589-f9e7e17ad029,0.12463862499998868,"{'width': 994, 'height': 558}","[{'x': 405.0, 'y': 270.0, 'width': 100.0, 'height': 70.0, 'confidence': 0.5516129732131958, 'class': 'plastic', 'class_id': 4, 'detection_id': '217873f9-7196-4328-9844-d3db252ec1f0'}]"
+52c7621e-dce6-4399-be5c-ff85d2385853,0.06318066599988015,"{'width': 994, 'height': 558}",[]
+2c0203da-75ae-4e65-a797-7cd4d6ab527b,0.06047064099993804,"{'width': 994, 'height': 558}",[]
+a7d4c9a1-b57a-4943-95b1-f871b1d21bc3,0.039655503999938446,"{'width': 994, 'height': 558}",[]
+68b3b23a-7472-4123-9719-af1bd92b5437,0.032003995999957624,"{'width': 994, 'height': 558}","[{'x': 402.0, 'y': 269.5, 'width': 94.0, 'height': 63.0, 'confidence': 0.6599928140640259, 'class': 'plastic', 'class_id': 4, 'detection_id': '105b2449-4f5d-433b-82d6-d78575a1ffb5'}]"
+bb469ccc-c5fd-42fb-af58-111c78ef3fd2,0.03146096399996168,"{'width': 994, 'height': 558}","[{'x': 402.5, 'y': 269.5, 'width': 95.0, 'height': 63.0, 'confidence': 0.6426041126251221, 'class': 'plastic', 'class_id': 4, 'detection_id': '901e9e19-c273-49e5-a220-8423a86dd29e'}]"
+60728a44-c893-49af-9884-19274557fb43,0.13819589400009136,"{'width': 994, 'height': 558}","[{'x': 402.0, 'y': 269.5, 'width': 94.0, 'height': 63.0, 'confidence': 0.692389726638794, 'class': 'plastic', 'class_id': 4, 'detection_id': 'b528c414-8247-4caa-ab17-449bd0378347'}]"
+fad454a5-1965-4107-98d6-1b78e7c45155,0.0902025750001485,"{'width': 994, 'height': 558}","[{'x': 402.0, 'y': 269.5, 'width': 94.0, 'height': 63.0, 'confidence': 0.6926867961883545, 'class': 'plastic', 'class_id': 4, 'detection_id': '80e757e3-dd9a-4fe0-aca7-0a50b6102890'}]"
+aa04c4ec-69d0-46bb-a325-933abbfebd2f,0.15722868600005313,"{'width': 994, 'height': 558}","[{'x': 400.0, 'y': 270.5, 'width': 96.0, 'height': 69.0, 'confidence': 0.45978766679763794, 'class': 'plastic', 'class_id': 4, 'detection_id': '1d06caa8-7169-48e3-8a48-23dd53eaa340'}]"
+6b7b5152-819a-4580-a0a9-964738069ed3,0.04906494900001235,"{'width': 994, 'height': 558}","[{'x': 481.0, 'y': 240.0, 'width': 158.0, 'height': 96.0, 'confidence': 0.49165743589401245, 'class': 'plastic', 'class_id': 4, 'detection_id': '663cd877-2bc6-4ad9-9846-efb9fcdadb92'}]"
+ca7cdd04-b6bc-4e83-ae52-78695c07aca7,0.12311348100001851,"{'width': 994, 'height': 558}","[{'x': 481.0, 'y': 240.0, 'width': 160.0, 'height': 96.0, 'confidence': 0.5309324860572815, 'class': 'plastic', 'class_id': 4, 'detection_id': 'ab4dcd5a-ee1b-4f0e-b78f-5dd7dd614e89'}]"
+c3ab5802-f1c2-49c4-9218-66515c2a0143,0.05631065299985494,"{'width': 994, 'height': 558}","[{'x': 481.0, 'y': 240.0, 'width': 158.0, 'height': 96.0, 'confidence': 0.5074864625930786, 'class': 'plastic', 'class_id': 4, 'detection_id': 'a973d4b9-6ea9-4b6f-b013-0fed46dc3136'}]"
+3f57431d-15b7-49b4-826f-8661c10c3ce3,0.03840769100020225,"{'width': 994, 'height': 558}","[{'x': 486.5, 'y': 245.0, 'width': 127.0, 'height': 86.0, 'confidence': 0.525750994682312, 'class': 'plastic', 'class_id': 4, 'detection_id': 'ecc4cad0-3c47-4429-a8d3-a2294d61a69d'}]"
+344d0b8d-65be-4549-a124-ff6581a6dc3b,0.047430011999949784,"{'width': 994, 'height': 558}","[{'x': 486.0, 'y': 245.0, 'width': 126.0, 'height': 84.0, 'confidence': 0.5242316126823425, 'class': 'plastic', 'class_id': 4, 'detection_id': '427b56b6-3afe-496d-8ebf-2d20e8790a36'}]"
+4fd6c8c4-0ec2-4a3d-8631-c9e5d2644590,0.04821431200002735,"{'width': 994, 'height': 558}",[]
+a5396262-137d-48f3-9847-755d986edebd,0.03114477799999804,"{'width': 994, 'height': 558}",[]
+c633d7f1-6709-4614-baf6-01c303ea5711,0.04111304299999574,"{'width': 994, 'height': 558}",[]
+e3885aa7-a04c-4af5-a265-e5b25723b36d,0.0389663969999674,"{'width': 994, 'height': 558}",[]
+7bdd703f-f814-4fbb-a141-e3365d262173,0.06085785800019039,"{'width': 994, 'height': 558}",[]
+771c7f7a-f8e1-415c-8d17-2df515b2ce4b,0.10103354800003217,"{'width': 994, 'height': 558}",[]
+8b44e072-87e3-4164-a65c-9668e4be68b3,0.07400668499985841,"{'width': 994, 'height': 558}",[]
+ae60b67c-7076-45a9-9f3d-ec0ede6a2c53,0.05976844500014522,"{'width': 994, 'height': 558}",[]
+1695a7b6-f42a-4db4-81d6-2ddfd81c1b1c,0.0687163119998786,"{'width': 994, 'height': 558}",[]
+ccf65551-9ef6-4f10-a74b-dc9fa3a5272e,0.07959975600010694,"{'width': 994, 'height': 558}",[]
+047aaebb-065d-4242-ba01-8f9650412cef,0.03203565600006186,"{'width': 994, 'height': 558}",[]
+2dc0e4cf-b925-48c7-97c6-48157caeb9e5,0.06078161200002796,"{'width': 994, 'height': 558}",[]
+161ab793-b365-4010-a715-ea11cae1fe7f,0.09975541000017074,"{'width': 994, 'height': 558}",[]
+7d1591a9-4db6-4b23-bd9c-42456a6746eb,0.042403694999848085,"{'width': 994, 'height': 558}",[]
+325ca95a-e569-42d1-ab8e-fa13331b4a9d,0.03348499799994897,"{'width': 994, 'height': 558}",[]
+7c8002a8-582c-47c4-84a0-bf9c1e8413a8,0.030127196000648837,"{'width': 994, 'height': 558}",[]
+4197475c-1433-47db-9b9d-fc29162f5540,0.03356408800027566,"{'width': 994, 'height': 558}",[]
+17f3202f-0d73-44f4-b5f1-6d87b68affdf,0.030377598000086437,"{'width': 994, 'height': 558}",[]
+f66afd83-fefa-4101-a754-5812240981b4,0.031077376000212098,"{'width': 994, 'height': 558}",[]
+eb382416-97e5-47d0-a52d-882415a28298,0.05802457699996921,"{'width': 994, 'height': 558}",[]
+b998bcf6-0f53-4afc-9d9f-d2278fe8d70f,0.077534863999972,"{'width': 994, 'height': 558}",[]
+836e3ecb-8b78-4579-8400-022a37fdb76d,0.06041764399992644,"{'width': 994, 'height': 558}",[]
+26d78e1f-93ca-42da-b00d-3db381fcf6ea,0.08054459100003442,"{'width': 994, 'height': 558}",[]
+a259e9d5-ca65-49f8-ba46-b974933f22d8,0.03363826899999367,"{'width': 994, 'height': 558}",[]
+9958db8b-7b8b-4191-8761-aa41b297ff76,0.06889783600013288,"{'width': 994, 'height': 558}",[]
+13befd1b-9f62-4903-8c40-c6dc51660f72,0.043566656000166404,"{'width': 994, 'height': 558}",[]
+59e62877-826a-4e96-a263-2bcd6d6fd9dc,0.05392541399987749,"{'width': 994, 'height': 558}",[]
+7bf94fd4-903a-4f60-a5d9-df8c0011bb07,0.030969822000088243,"{'width': 994, 'height': 558}",[]
+7e9d1fea-1dbb-491f-9d1b-c36c39a90fa5,0.05030533099989043,"{'width': 994, 'height': 558}",[]
+2e26067f-fdf5-4b53-b598-f17ebe4eb59b,0.04499467200002982,"{'width': 994, 'height': 558}",[]
+b516bc60-4111-429c-9539-5a661f5b666f,0.03300816199998735,"{'width': 994, 'height': 558}",[]
+0a31a595-7cfc-4fdc-b4aa-76c45977ed96,0.03130922000013925,"{'width': 994, 'height': 558}",[]
+0f8f3eec-19cb-4335-93d1-fe2cf11ce1fe,0.03179526999997506,"{'width': 994, 'height': 558}",[]
+99b93446-97c0-4c45-bcce-3d043a78207d,0.03139101700003266,"{'width': 994, 'height': 558}",[]
+e59e1462-d3df-4c7d-8654-873833f667ae,0.032466555999917546,"{'width': 994, 'height': 558}",[]
+eb574eef-9829-488d-847d-016415552a0c,0.034024435999981506,"{'width': 994, 'height': 558}",[]
+c0a77494-1a22-4e9a-b7ee-60dc500f2af9,0.037484644999949523,"{'width': 994, 'height': 558}",[]
+3252bf6d-764c-495f-8a4f-466248255e1c,0.04384791600000426,"{'width': 994, 'height': 558}",[]
+11d7b7ab-f0e6-423c-92aa-240b0c8dca40,0.055782387000135714,"{'width': 994, 'height': 558}",[]
+3ded66d7-3e93-4228-bb73-62630d6c1e7e,0.044058388999928866,"{'width': 994, 'height': 558}",[]
+23e4b30d-95fc-452d-ab09-c9669f0da1fa,0.05572870299988608,"{'width': 994, 'height': 558}",[]
+703d0204-8735-4546-b016-8e45f0dbaf04,0.07268400900011329,"{'width': 994, 'height': 558}",[]
+ae9277e5-8b9b-4a6e-ac4a-be41dbe0930e,0.14170562599997538,"{'width': 994, 'height': 558}",[]
+bf3f5e2d-cdf3-4ff3-bb64-3678613e9f43,0.15293182999994315,"{'width': 994, 'height': 558}",[]
+3a90b9e3-615c-40ab-a5b3-dc78ea00b0d3,0.11917605300004652,"{'width': 994, 'height': 558}",[]
+d5d2957b-7fac-4547-a0a5-f6214ff0f239,0.053859828999975434,"{'width': 994, 'height': 558}",[]
+ca5a0111-83a7-4a63-b0ff-4f13191daf45,0.13621060099990245,"{'width': 994, 'height': 558}",[]
+ca3a7849-7a0b-46d5-abea-91e983e42486,0.041436567999880936,"{'width': 994, 'height': 558}",[]
+c7094549-6e4e-442c-8de5-9fb582321b89,0.08444499000006545,"{'width': 994, 'height': 558}",[]
+91bbdf3d-5d33-4f04-800f-c448cccd2f47,0.08908222300010493,"{'width': 994, 'height': 558}",[]
+3e0e7892-cfe2-45d6-9184-b202bae41380,0.04924068700006501,"{'width': 994, 'height': 558}",[]
+d2a183e4-e926-4407-ad46-165df476dfc3,0.03544258700003411,"{'width': 994, 'height': 558}",[]
+f930b08f-9dee-4560-9f13-8f1ec598f73d,0.038075268000056894,"{'width': 994, 'height': 558}",[]
+4fc7b586-a20f-4afe-8289-a72b0c7bd227,0.05637633499986805,"{'width': 994, 'height': 558}","[{'x': 497.0, 'y': 285.5, 'width': 994.0, 'height': 545.0, 'confidence': 0.5262279510498047, 'class': 'paper', 'class_id': 3, 'detection_id': '7899e7a9-7acb-4624-b50d-9244d7b1d387'}]"
+853a3a7d-a3d9-4569-a89e-6bd63404aa3a,0.046582219999891095,"{'width': 994, 'height': 558}","[{'x': 497.0, 'y': 285.5, 'width': 994.0, 'height': 545.0, 'confidence': 0.5329522490501404, 'class': 'paper', 'class_id': 3, 'detection_id': '876a0258-1213-4a9c-9733-38d46ea07e00'}]"
+0bf949fd-6f29-4bd1-9dff-d3c41a5b11fb,0.04967988900011733,"{'width': 994, 'height': 558}","[{'x': 497.0, 'y': 285.5, 'width': 994.0, 'height': 545.0, 'confidence': 0.5284563302993774, 'class': 'paper', 'class_id': 3, 'detection_id': '40d9e4ad-edef-4085-a55e-89f989d0512a'}]"
+01a0a79c-c60c-4ab5-b2a4-0ebef979449e,0.0640487559999201,"{'width': 994, 'height': 558}",[]
+4b8f62f0-e35d-4a0a-b094-0e8583969cb3,0.16659128499986764,"{'width': 994, 'height': 558}",[]
+201f6ba2-5d16-486e-819f-3502f8cd85df,0.10117639800000688,"{'width': 994, 'height': 558}",[]
+ec201ad0-ac37-4b58-8e4d-f699ff97027a,0.09799394899982872,"{'width': 994, 'height': 558}",[]
+009b8161-4402-44d7-823f-f3a7e61b3b1b,0.06351466700016317,"{'width': 994, 'height': 558}",[]
+8fa0c9eb-7072-4b75-988e-0b7e036256e5,0.03924991400003819,"{'width': 994, 'height': 558}","[{'x': 495.0, 'y': 351.5, 'width': 952.0, 'height': 403.0, 'confidence': 0.4788646996021271, 'class': 'paper', 'class_id': 3, 'detection_id': '9f47b761-c41a-4439-89c4-8dbd0c751169'}]"
+d8d54ff1-f848-41fd-90d5-b3d4be103d76,0.06776111699991816,"{'width': 994, 'height': 558}","[{'x': 494.5, 'y': 352.0, 'width': 953.0, 'height': 402.0, 'confidence': 0.4816097617149353, 'class': 'paper', 'class_id': 3, 'detection_id': '4e640b44-e6b1-45f1-89c3-088a02b0644f'}]"
+42e7b9eb-4f1a-43e6-8364-b3f5a62b4a12,0.05734728499987796,"{'width': 994, 'height': 558}","[{'x': 494.5, 'y': 352.5, 'width': 953.0, 'height': 403.0, 'confidence': 0.4771430194377899, 'class': 'paper', 'class_id': 3, 'detection_id': '9dff4e1d-a885-4afb-98d2-42564be8302b'}]"
+58635937-e455-4e74-8dfb-32366594e71d,0.03099788700001227,"{'width': 994, 'height': 558}","[{'x': 494.5, 'y': 353.0, 'width': 955.0, 'height': 402.0, 'confidence': 0.4848228096961975, 'class': 'paper', 'class_id': 3, 'detection_id': 'fb24dea1-6b86-488a-a913-8fef9e64bbf1'}]"
+e3fa390b-eb2b-4a0f-a6eb-ea532a9e194b,0.03933515699986856,"{'width': 994, 'height': 558}","[{'x': 494.0, 'y': 353.0, 'width': 960.0, 'height': 402.0, 'confidence': 0.49037742614746094, 'class': 'paper', 'class_id': 3, 'detection_id': 'c9d0920f-c624-4e14-bb32-152b3b658d2e'}]"
