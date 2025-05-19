@@ -63,7 +63,7 @@ This project integrates two key phases of object detection using computer vision
 
 ## Repo Structure
 ```
-BitBucket/nextgen_recycleanalytics_code/
+computer_vision/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
